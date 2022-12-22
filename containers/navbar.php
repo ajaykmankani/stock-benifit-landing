@@ -22,8 +22,7 @@
                     </div>
                     <div class="header-column justify-content-end">
                         <div class="header-row">
-                            <a href="contact.php" class="custom-header-top-btn-style-1 btn btn-secondary font-weight-bold px-4 px-sm-5 py-3">BOOK
-                                NOW</a>
+                            <a href="contact.php" class="custom-header-top-btn-style-1 btn btn-secondary font-weight-bold px-4 px-sm-5 py-3">Get Free Trial</a>
                         </div>
                     </div>
                 </div>

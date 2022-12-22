@@ -577,85 +577,245 @@
 									</h2>
 								</div>
 							</div>
-							<h3 class="text-color-secondary font-weight-bold text-transform-none text-8 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Our Portfolio
+							<h3 class="text-color-secondary font-weight-bold text-transform-none text-8 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Our Past Performance
+
 							</h3>
-							<p class="mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">Cras a elit sit amet leo accumsan volutpat.
-								Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet
-								ullamcorper dolor, quis sollicitudin. Integer aliquet ullamcorper dolor, quis
-								sollicitudin.</p>
+							<p class="mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">We are one of the leading Advisory for Indian stock market. We give guidance on movements, valuations and recommendations based on best Technical and fundamental analysis. We sincerely hope that each and every trader doing trading with us may get good profit whatever he/she is looking for.
+							</p>
 						</div>
 						<div class="col-lg-5 col-xl-4">
 							<div class="d-flex justify-content-lg-end">
-								<a href="demo-cleaning-services-portfolio.php" class="btn btn-primary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800">VIEW
-									ALL PORTFOLIO</a>
-								<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">BOOK
-									NOW</a>
+								<a href="demo-cleaning-services-portfolio.php" class="btn btn-primary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800">Request Call Back
+								</a>
+								<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600"> Get Free Trial
+								</a>
 							</div>
 						</div>
 					</div>
 					<div class="row appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="2000">
 						<div class="col">
-							<div class="owl-carousel nav-outside nav-arrows-1 custom-carousel-box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 2}, '1199': {'items': 2}}, 'autoplay': false, 'autoplayTimeout': 5000, 'autoplayHoverPause': true, 'dots': false, 'nav': true, 'loop': false, 'margin': 20, 'stagePadding': '75'}">
-								<div>
-									<a href="demo-cleaning-services-portfolio-detail.php" class="text-decoration-none">
-										<div class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-centered-icons thumb-info-hide-wrapper-bg">
-											<div class="thumb-info-wrapper overlay overlay-color-secondary">
-												<img src="img/portfolio/portfolio-1.webp" class="img-fluid" alt="">
-												<div class="thumb-info-action text-center flex-column">
-													<h4 class="text-color-light font-weight-bold text-6 mb-1">Porto
-														Building</h4>
-													<span class="d-block text-color-light font-weight-light">Post
-														Construction</span>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div>
-									<a href="demo-cleaning-services-portfolio-detail.php" class="text-decoration-none">
-										<div class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-centered-icons thumb-info-hide-wrapper-bg">
-											<div class="thumb-info-wrapper overlay overlay-color-secondary">
-												<img src="img/portfolio/portfolio-2.webp" class="img-fluid" alt="">
-												<div class="thumb-info-action text-center flex-column">
-													<h4 class="text-color-light font-weight-bold text-6 mb-1">Porto
-														Office</h4>
-													<span class="d-block text-color-light font-weight-light">Cleaning
-														Office</span>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div>
-									<a href="demo-cleaning-services-portfolio-detail.php" class="text-decoration-none">
-										<div class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-centered-icons thumb-info-hide-wrapper-bg">
-											<div class="thumb-info-wrapper overlay overlay-color-secondary">
-												<img src="img/portfolio/portfolio-3.webp" class="img-fluid" alt="">
-												<div class="thumb-info-action text-center flex-column">
-													<h4 class="text-color-light font-weight-bold text-6 mb-1">Porto
-														Enterprise</h4>
-													<span class="d-block text-color-light font-weight-light">Building
-														Services</span>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div>
-									<a href="demo-cleaning-services-portfolio-detail.php" class="text-decoration-none">
-										<div class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-centered-icons thumb-info-hide-wrapper-bg">
-											<div class="thumb-info-wrapper overlay overlay-color-secondary">
-												<img src="img/portfolio/portfolio-4.webp" class="img-fluid" alt="">
-												<div class="thumb-info-action text-center flex-column">
-													<h4 class="text-color-light font-weight-bold text-6 mb-1">Porto Home
-													</h4>
-													<span class="d-block text-color-light font-weight-light">Cleaning
-														Services</span>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
+							<div class="table-data mt-md-5">
+								<table class="table" style="font-size: 12px;">
+									<thead>
+										<tr>
+											<th>DATE</th>
+											<th>TRADE GIVEN</th>
+											<th>AT</th>
+											<th>AVERAGE AT</th>
+											<th>STOP LOSS</th>
+											<th>TAREGET</th>
+											<th>ACHIEVED</th>
+										</tr>
+									</thead>
+									<tbody>
+
+										<tr>
+											<td>06-0CT 2022</td>
+											<td>BUY OCT NIFTY 17300 CE&nbsp;</td>
+											<td>140-150</td>
+											<td>100</td>
+											<td>70</td>
+											<td>230/300</td>
+											<td>low&nbsp;160&nbsp;from buying level thereafter high&nbsp;177&nbsp;(recommended
+												to book at&nbsp;177)</td>
+										</tr>
+										<tr>
+											<td>06-Oct-22</td>
+											<td>BUY 06 0CT NIFTY 17300 CE</td>
+											<td>65-75</td>
+											<td>35-40</td>
+											<td>25</td>
+											<td>125/150</td>
+											<td>low&nbsp;66.75&nbsp;from buying level,recommended to book at&nbsp;86</td>
+										</tr>
+										<tr>
+											<td>07-Oct-22</td>
+											<td>BUY 13 OCT BANK NIFTY 38900 PE</td>
+											<td>380-400</td>
+											<td>300</td>
+											<td>200</td>
+											<td>600/750</td>
+											<td>trade executed,recommended to book at&nbsp;437</td>
+										</tr>
+										<tr>
+											<td>11-Oct-22</td>
+											<td>BUY 13 OCT BANK NITY 38900 CE</td>
+											<td>370</td>
+											<td>240</td>
+											<td>200</td>
+											<td>500</td>
+											<td>exit at cost</td>
+										</tr>
+										<tr>
+											<td>12-Oct-22</td>
+											<td>BUY 20 OCT NIFTY 16900</td>
+											<td>250-260</td>
+											<td>200</td>
+											<td>170</td>
+											<td>350/450</td>
+											<td>low240 from buying level thereafter high&nbsp;335,recommended to book
+												at&nbsp;313</td>
+										</tr>
+										<tr>
+											<td>13-Oct-22</td>
+											<td>BUY 20 OCT NIFTY 16800 CE</td>
+											<td>250-260</td>
+											<td>200</td>
+											<td>170</td>
+											<td>350-450</td>
+											<td>low&nbsp;278&nbsp;from buying level,recommended to buy at&nbsp;278, recommended
+												to book at&nbsp;340</td>
+										</tr>
+										<tr>
+											<td>14-Oct-22</td>
+											<td>BUY 20 OCT BANK NIFTY 39500 CE</td>
+											<td>350-360</td>
+											<td>260</td>
+											<td>160</td>
+											<td>560/650</td>
+											<td>low&nbsp;364&nbsp;from buying level recommended to book at&nbsp;412&nbsp;</td>
+										</tr>
+										<tr>
+											<td>19-Oct-22</td>
+											<td>BUY 27 OCT NIFTY 17400 CE</td>
+											<td>220-230</td>
+											<td>180</td>
+											<td>150</td>
+											<td>310/360</td>
+											<td>low&nbsp;216&nbsp;buying was 220-230 recommended to book at&nbsp;245</td>
+										</tr>
+										<tr>
+											<td>25-Oct-22</td>
+											<td>BUY 27 OCT BANK NIFTY 41000 CE&nbsp;</td>
+											<td>350-360</td>
+											<td>260</td>
+											<td>160</td>
+											<td>560/650</td>
+											<td>high&nbsp;433&nbsp;from buying rice,&nbsp;recommended to book at&nbsp;420</td>
+										</tr>
+										<tr>
+											<td>31-Oct-22</td>
+											<td>BUY 03 NOV NIFTY 17800 CE&nbsp;</td>
+											<td>180-190</td>
+											<td>150</td>
+											<td>120</td>
+											<td>260/310</td>
+											<td>low&nbsp;200&nbsp;recommended to buy at&nbsp;200,recommended to book at&nbsp;245
+											</td>
+										</tr>
+										<tr>
+											<td>01-Sep</td>
+											<td>BUY 08 SEP NIFTY 17500 CE&nbsp;</td>
+											<td>200-210</td>
+											<td>150</td>
+											<td>120</td>
+											<td>300/375</td>
+											<td>trade executed from buying level recommended to book at 236</td>
+										</tr>
+										<tr>
+											<td>06-Sep</td>
+											<td>BUY 08 SEP BANK NIFTY 39600 CE&nbsp;</td>
+											<td>340-350</td>
+											<td>250</td>
+											<td>150</td>
+											<td>550/650</td>
+											<td>trade executed from buying level,recommended to book at 377</td>
+										</tr>
+										<tr>
+											<td>07-Sep</td>
+											<td>BUY 08 SEP BANK NIFTY 39300 CE&nbsp;</td>
+											<td>300-320</td>
+											<td>220</td>
+											<td>150</td>
+											<td>490/600</td>
+											<td>trade executed from buying level,recommended to book at 421</td>
+										</tr>
+										<tr>
+											<td>08-Sep</td>
+											<td>BUY 08 SEP BANK NIFTY 40300 PE</td>
+											<td>210-230</td>
+											<td>130</td>
+											<td>100</td>
+											<td>360/500</td>
+											<td>trade executed from buying level,high 381(updated) first target done</td>
+										</tr>
+										<tr>
+											<td>09-Sep</td>
+											<td>BUY 15 SEP NIFTY 17700 CE&nbsp;</td>
+											<td>210-220</td>
+											<td>170</td>
+											<td>140</td>
+											<td>300/340</td>
+											<td>trade executed from buying level,recommended to book at 248</td>
+										</tr>
+										<tr>
+											<td>13-Sep</td>
+											<td>BUY 15 SEP BANK NIFTY 40800 CE</td>
+											<td>280-290</td>
+											<td>210</td>
+											<td>170</td>
+											<td>410/500</td>
+											<td>trade executed from buying level,recommended to book at 340</td>
+										</tr>
+										<tr>
+											<td>19-Sep</td>
+											<td>BUY 22 SEP BANK NIFTY 40800 CE</td>
+											<td>390-400</td>
+											<td>300</td>
+											<td>200</td>
+											<td>600/750</td>
+											<td>trade executed from buying level,recommended to book at 529</td>
+										</tr>
+										<tr>
+											<td>21-Sep</td>
+											<td>BUY 29 SEP NIFTY 17700 CE</td>
+											<td>215-230</td>
+											<td>170</td>
+											<td>140</td>
+											<td>320/400</td>
+											<td>Low 212 from buiyng level thereafter high 261 recommended to book at 241</td>
+										</tr>
+										<tr>
+											<td>22-Sep</td>
+											<td>BUY 29 SEP NIFTY 17500 CE</td>
+											<td>230-240</td>
+											<td>180</td>
+											<td>150</td>
+											<td>330-420</td>
+											<td>trade executed from buying level thereafter,hits first target 91 points gain
+											</td>
+										</tr>
+										<tr>
+											<td>23-Sep</td>
+											<td>BUY 29 SEP NIFTY 17300 CE</td>
+											<td>250-260</td>
+											<td>190</td>
+											<td>170</td>
+											<td>350/440</td>
+											<td>trade executed from buying level thereafter recommended to book at279</td>
+										</tr>
+										<tr>
+											<td>27-Sep</td>
+											<td>BUY 06 OCT NIFTY 16900 CE&nbsp;</td>
+											<td>290-300</td>
+											<td>240</td>
+											<td>180</td>
+											<td>420/500</td>
+											<td>trade executed from buying level thereafter high 383 recommended to book at 370
+											</td>
+										</tr>
+										<tr>
+											<td>28-Sep</td>
+											<td>BUY 06 OCT NIFTY 16900 CE&nbsp;</td>
+											<td>250-260</td>
+											<td>200</td>
+											<td>180</td>
+											<td>340/400</td>
+											<td>trade executed from buying level thereafter recommended to book at 280</td>
+										</tr>
+
+									</tbody>
+								</table>
 							</div>
 						</div>
 					</div>
@@ -801,24 +961,25 @@
 						<div class="col-lg-4 pe-lg-0 mb-4 mb-lg-0">
 							<h2 class="text-color-light font-weight-bold line-height-6 text-8 mb-3">Our Happy Clients
 							</h2>
-							<p class="text-color-light opacity-7 mb-0">Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Sed imperdiet libero id nisi euismod, sed porta est consectetur. Sed
-								imperdiet libero id nisi euismod, sed porta est consectetur.</p>
+							<p class="text-color-light opacity-7 mb-0">We are the best Nifty, Bank Nifty Option Tips Specialist and India's Leading Stock Advisory. Our customer’s trust and the accuracy of recommendations, which we provide is the base of our establishment and make us different from others.
+							</p>
 						</div>
 						<div class="col-lg-8 ps-lg-4">
 							<div class="owl-carousel dots-light dots-align-left" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '979': {'items': 2}, '1199': {'items': 2}}, 'margin': 20, 'loop': true, 'dots': true, 'dotsEach': 1, 'nav': false, 'autoplay': true, 'autoplayTimeout': 5000}">
 								<div>
 									<div class="testimonial testimonial-style-3 custom-testimonial-style-1">
 										<blockquote>
-											<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-												eget risus porta, tincidunt turpis at. </p>
+											<p class="mb-0">I am very enthusiastic about your
+												organization as I were gaining
+												knowledge of shares for pretty a
+												while and feature now no longer... </p>
 										</blockquote>
 										<div class="testimonial-author">
 											<div class="testimonial-author-thumbnail">
 												<img src="img/clients/client-1.webp" class="img-fluid rounded-circle" alt="">
 											</div>
-											<p><strong class="text-color-light font-weight-semibold text-4 mb-1">John
-													Smith</strong><span class="text-color-light text-2">NEW YORK</span>
+											<p><strong class="text-color-light font-weight-semibold text-4 mb-1">Rekha Sharma</strong>
+												<!-- <span class="text-color-light text-2">NEW YORK</span> -->
 											</p>
 										</div>
 									</div>
@@ -826,15 +987,17 @@
 								<div>
 									<div class="testimonial testimonial-style-3 custom-testimonial-style-1">
 										<blockquote>
-											<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-												eget risus porta, tincidunt turpis at. </p>
+											<p class="mb-0">It's very step-by-step. I got here in
+												understanding not anything in any
+												respect approximately shares,
+												options, and investments. When...</p>
 										</blockquote>
 										<div class="testimonial-author">
 											<div class="testimonial-author-thumbnail">
 												<img src="img/clients/client-2.webp" class="img-fluid rounded-circle" alt="">
 											</div>
-											<p><strong class="text-color-light font-weight-semibold text-4 mb-1">Monica
-													Doe</strong><span class="text-color-light text-2">NEW YORK</span>
+											<p><strong class="text-color-light font-weight-semibold text-4 mb-1">Himanshu Rawat</strong>
+												<!-- <span class="text-color-light text-2">NEW YORK</span> -->
 											</p>
 										</div>
 									</div>
@@ -842,35 +1005,22 @@
 								<div>
 									<div class="testimonial testimonial-style-3 custom-testimonial-style-1">
 										<blockquote>
-											<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-												eget risus porta, tincidunt turpis at. </p>
+											<p class="mb-0">I am studying a lot approximately
+												technical evaluation now that I am
+												a member to Stock Benefits
+												Financial Services. This is my...</p>
 										</blockquote>
 										<div class="testimonial-author">
 											<div class="testimonial-author-thumbnail">
 												<img src="img/clients/client-3.webp" class="img-fluid rounded-circle" alt="">
 											</div>
-											<p><strong class="text-color-light font-weight-semibold text-4 mb-1">John
-													Smith</strong><span class="text-color-light text-2">NEW YORK</span>
+											<p><strong class="text-color-light font-weight-semibold text-4 mb-1">Ravi Kumar</strong>
+												<!-- <span class="text-color-light text-2">NEW YORK</span> -->
 											</p>
 										</div>
 									</div>
 								</div>
-								<div>
-									<div class="testimonial testimonial-style-3 custom-testimonial-style-1">
-										<blockquote>
-											<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-												eget risus porta, tincidunt turpis at. </p>
-										</blockquote>
-										<div class="testimonial-author">
-											<div class="testimonial-author-thumbnail">
-												<img src="img/clients/client-4.webp" class="img-fluid rounded-circle" alt="">
-											</div>
-											<p><strong class="text-color-light font-weight-semibold text-4 mb-1">John
-													Doe</strong><span class="text-color-light text-2">NEW YORK</span>
-											</p>
-										</div>
-									</div>
-								</div>
+
 							</div>
 						</div>
 					</div>
@@ -878,274 +1028,91 @@
 			</section>
 
 			<section class="section border-0 pt-4 m-0">
-				<div class="container">
+				<div class="container-fluid">
 					<div class="row justify-content-center pb-2 mb-3">
 						<div class="col-md-9 col-lg-12 text-center">
-							<h2 class="text-color-secondary font-weight-bold line-height-6 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Our Prices
+							<h2 class="text-color-secondary font-weight-bold line-height-6 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Our Best Services
+
 							</h2>
-							<p class="custom-font-secondary text-4 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Cras a elit
-								sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis
-								ultri.</p>
+							<p class="custom-font-secondary text-4 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">We provide reliable & accurate calls in stock market. Our professional stock experts offer best tips Service for Indian Stock Market.
+							</p>
 						</div>
 					</div>
 					<div class="row appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
 						<div class="col">
-							<div class="owl-carousel nav-outside nav-arrows-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 3}, '1199': {'items': 4}}, 'autoplay': false, 'autoplayTimeout': 5000, 'autoplayHoverPause': true, 'dots': false, 'nav': true, 'loop': false, 'margin': 20, 'stagePadding': '75'}">
-								<div>
-									<div class="card custom-card-style-1">
-										<div class="card-body text-center py-5 px-4">
-											<h3 class="text-color-primary font-weight-medium text-4 pb-1 mb-4">
-												RESIDENTIAL MAINTENANCE</h3>
-											<div class="price d-flex align-items-end justify-content-center font-weight-bold text-color-dark text-12 line-height-1 pb-1 mb-4">
-												<span class="price-unit font-weight-normal custom-font-size-4 position-relative bottom-6">$</span>
-												69
+							<div class="row">
+
+								<?php $cards = array('Index F&Os', 'Stock F&Os', 'Premium Combo Package');
+								$points = array(
+									array(
+										'Pre-Market View & Trading Levels & Strategy',
+										' Get 1-2 Trades Daily (Positional + Intraday)',
+										' Proper Entry & Exit Level.',
+										' Regular Follow Up & Updates',
+										' Get Live Market Guidance & Risk-Management',
+										' Potential Profit Target 15k Per Trade',
+										' Objective to capture Index Swings',
+										' Accuracy 90% & Above',
+									),
+									array(
+										'Get 2-3 Trades Daily (Positional + Intraday)',
+										'Proper Entry & Exit Level.',
+										'Regular Follow Up & Updates',
+										'Guidance via Option Risk Management',
+										'Proper Technical View, Logic & Levels for Positional Trades',
+										'Objective to capture market momentum UP Or Down',
+										'Accuracy 90% & Above',
+									),
+									array(
+										'Best Filtered trade In Index OR Stock Trades',
+										'Get 2-3 Positional Trades',
+										'Get 3-4 Intraday Index/ Stock trades',
+										'Index/ Stock Option Trade',
+										'Customize Package as per Client Requirement',
+										'Objective wealth Creati',
+									)
+
+								) ?>
+								<?php
+								$x = 0;
+								foreach ($cards as $card) {
+									$x++;
+								?>
+									<div class="col-4">
+										<div class="card custom-card-style-1">
+											<div class="card-body text-center py-5 px-4">
+												<h3 class="text-color-primary font-weight-medium text-4 pb-1 mb-4 ">
+													<?= $card ?>
+												</h3>
+												<div class="price d-flex align-items-end justify-content-center font-weight-bold text-color-dark text-12 line-height-1 pb-1 mb-4">
+													<span class="price-unit font-weight-normal custom-font-size-4 position-relative bottom-6">$</span>
+													69
+												</div>
+												<ul class="list list-unstyled pb-1 mb-4 ">
+
+													<?php foreach ($points[$x - 1] as $point) { ?>
+														<li class="d-flex align-items-center justify-content-center">
+															<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+																<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
+																<polyline points="23 3 12 14 9 11" />
+															</svg>
+															<span class="ms-1 " style="text-align: start !important;"><?= $point ?>
+															</span>
+														</li>
+													<?php }; ?>
+
+
+												</ul>
+												<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
+													NOW</a>
 											</div>
-											<ul class="list list-unstyled pb-1 mb-4">
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Porter & Matron Service</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Carpet Care Programs</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Floor Care Maintenance</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Sanitize & Decontamination</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">High Dusting</span>
-												</li>
-											</ul>
-											<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
-												NOW</a>
 										</div>
 									</div>
-								</div>
-								<div>
-									<div class="card custom-card-style-1">
-										<div class="card-body text-center py-5 px-4">
-											<h3 class="text-color-primary font-weight-medium text-4 pb-1 mb-4">OFFICE
-												CLEANING</h3>
-											<div class="price d-flex align-items-end justify-content-center font-weight-bold text-color-dark text-12 line-height-1 pb-1 mb-4">
-												<span class="price-unit font-weight-normal custom-font-size-4 position-relative bottom-6">$</span>
-												79
-											</div>
-											<ul class="list list-unstyled pb-1 mb-4">
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Porter & Matron Service</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Carpet Care Programs</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Floor Care Maintenance</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Sanitize & Decontamination</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">High Dusting</span>
-												</li>
-											</ul>
-											<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
-												NOW</a>
-										</div>
-									</div>
-								</div>
-								<div>
-									<div class="card custom-card-style-1">
-										<div class="card-body text-center py-5 px-4">
-											<h3 class="text-color-primary font-weight-medium text-4 pb-1 mb-4">FACILITY
-												CLEANING</h3>
-											<div class="price d-flex align-items-end justify-content-center font-weight-bold text-color-dark text-12 line-height-1 pb-1 mb-4">
-												<span class="price-unit font-weight-normal custom-font-size-4 position-relative bottom-6">$</span>
-												89
-											</div>
-											<ul class="list list-unstyled pb-1 mb-4">
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Porter & Matron Service</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Carpet Care Programs</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Floor Care Maintenance</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Sanitize & Decontamination</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">High Dusting</span>
-												</li>
-											</ul>
-											<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
-												NOW</a>
-										</div>
-									</div>
-								</div>
-								<div>
-									<div class="card custom-card-style-1">
-										<div class="card-body text-center py-5 px-4">
-											<h3 class="text-color-primary font-weight-medium text-4 pb-1 mb-4">BUILDING
-												MAINTENANCE</h3>
-											<div class="price d-flex align-items-end justify-content-center font-weight-bold text-color-dark text-12 line-height-1 pb-1 mb-4">
-												<span class="price-unit font-weight-normal custom-font-size-4 position-relative bottom-6">$</span>
-												99
-											</div>
-											<ul class="list list-unstyled pb-1 mb-4">
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Porter & Matron Service</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Carpet Care Programs</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Floor Care Maintenance</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Sanitize & Decontamination</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">High Dusting</span>
-												</li>
-											</ul>
-											<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
-												NOW</a>
-										</div>
-									</div>
-								</div>
-								<div>
-									<div class="card custom-card-style-1">
-										<div class="card-body text-center py-5 px-4">
-											<h3 class="text-color-primary font-weight-medium text-4 pb-1 mb-4">
-												RESIDENTIAL MAINTENANCE</h3>
-											<div class="price d-flex align-items-end justify-content-center font-weight-bold text-color-dark text-12 line-height-1 pb-1 mb-4">
-												69
-												<span class="price-unit font-weight-normal custom-font-size-4 position-relative bottom-6">$</span>
-											</div>
-											<ul class="list list-unstyled pb-1 mb-4">
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Porter & Matron Service</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Carpet Care Programs</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Floor Care Maintenance</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">Sanitize & Decontamination</span>
-												</li>
-												<li class="d-flex align-items-center justify-content-center">
-													<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-														<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
-														<polyline points="23 3 12 14 9 11" />
-													</svg>
-													<span class="ms-1">High Dusting</span>
-												</li>
-											</ul>
-											<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
-												NOW</a>
-										</div>
-									</div>
-								</div>
+								<?php }; ?>
+
+
+
+
 							</div>
 						</div>
 					</div>
@@ -1174,13 +1141,13 @@
 				<div class="container py-5 mt-5 mb-3">
 					<div class="row justify-content-center py-5 my-4">
 						<div class="col-lg-9 col-xl-7 text-center px-lg-4">
-							<h2 class="text-color-light font-weight-medium text-11 line-height-5 mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">High Quality
-								<span class="font-weight-bold custom-highlight-1 ws-nowrap custom-highlight-1-primary p-2 appear-animation" data-appear-animation="customHighlightAnim" data-appear-animation-delay="1s">Cleaning Services</span> for all type of facilities
+							<h2 class="text-color-light font-weight-medium text-11 line-height-5 mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200"> Increase your profit with our
+
+								<span class="font-weight-bold custom-highlight-1 ws-nowrap custom-highlight-1-primary p-2 appear-animation" data-appear-animation="customHighlightAnim" data-appear-animation-delay="1s">high-quality</span> Nifty Option Tips, Bank Nifty Options Tips, Nifty Tips and Bank Nifty Tips
 							</h2>
-							<p class="custom-font-secondary custom-font-size-1 custom-text-color-1 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Our Staff is
-								trained to clean everything you need</p>
-							<a href="demo-cleaning-services-prices.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">VIEW
-								PRICES</a>
+							<p class="custom-font-secondary custom-font-size-1 custom-text-color-1 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Start Recovering Your Previous Loss Now
+							</p>
+							<a href="demo-cleaning-services-prices.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">Start Earning</a>
 						</div>
 					</div>
 				</div>

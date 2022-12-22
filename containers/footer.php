@@ -21,19 +21,29 @@
                         <a href="tel:<?= $phone ?>" class="text-uppercase text-color-light text-color-hover-secondary text-decoration-none text-5 font-weight-bold pb-0"><?= $phone ?></a>
                     </div>
                 </div>
-                <a href="demo-cleaning-services-contact.php" class="btn btn-primary font-weight-bold px-5 py-3 mb-2">BOOK NOW</a>
+                <a href="demo-cleaning-services-contact.php" class="btn btn-primary font-weight-bold px-5 py-3 mb-2">Request Call Back
+                </a>
             </div>
             <div class="col-md-4 col-lg-2 mb-4 mb-md-0">
                 <h4 class="font-weight-bold ls-0">Our Services</h4>
                 <ul class="list-unstyled mb-0">
                     <li class="mb-1">
-                        <a href="demo-cleaning-services-services-detail.php">Building Services</a>
+                        NIFTY / Bank NIFTY
+
                     </li>
                     <li class="mb-1">
-                        <a href="demo-cleaning-services-services-detail.php">Post Construction</a>
+                        Equity Cash / Intraday
+
                     </li>
                     <li class="mb-0">
-                        <a href="demo-cleaning-services-services-detail.php">Office Cleaning</a>
+                        Option (Call - Put)
+
+                    </li>
+                    <li class="mb-0">
+                        Future (Derivatives)
+                    </li>
+                    <li class="mb-0">
+                        Index
                     </li>
                 </ul>
                 <a href="demo-cleaning-services-services.php" class="btn btn-link font-weight-bold text-decoration-none ps-0">VIEW MORE</a>
@@ -79,7 +89,7 @@
                     </a>
                 </div>
                 <div class="col-lg-6 text-center text-lg-end">
-                    <p class="text-3 mb-0">Developed & Marketed by <a href="https://www.mindyourads.com" style="color:#00bff3">MindYourAds</a> © 2022. All Rights Reserved</p>
+                    <p class="text-3 mb-0">Developed & Marketed by <a href="https://www.mindyourads.com" style="color:#00bff3" target="_blank">MindYourAds</a> © 2022. All Rights Reserved</p>
 
                 </div>
 
