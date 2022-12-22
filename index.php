@@ -169,16 +169,17 @@
 								</div>
 							</div>
 							<h3 class="text-color-secondary font-weight-bold text-transform-none line-height-2 text-10 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">
-								Home and Commercial<br>
-								<span class="text-1 d-block">Cleaning Done Right Away</span>
+								Grow Your Profit
+
+								<br>
+								<span class="text-1 d-block">with Stock Benifits Advisory Services</span>
 							</h3>
-							<p class="custom-font-secondary text-4 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">Get reliable
-								& affordable cleaning services for your facility with a 100% satisfaction guaranteed!
+							<p class="custom-font-secondary text-4 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">Get reliable & accurate stock market trading tips with best research and telephonic support in India.
+
 							</p>
-							<p class="pb-1 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1600">Cras a elit sit amet leo accumsan volutpat.
-								Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet
-								ullamcorper dolor, quis sollicitudin.</p>
-							<a href="demo-cleaning-services-about.html" class="btn btn-primary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800">VIEW MORE</a>
+							<p class="pb-1 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1600">Stock Benifits is a pioneering research advisory having a team of specialized financial market analysts having massive experience in carrying out capital market research. We deliver reliable tips and advices for stocks, Intraday Trading, NIFTY, Bank Nifty, Stock Option, future and option (F&O) traded in the NSE and BSE, Commodities such as bullion and metals traded in the MCX and NCDEX. We offer daily and weekly reports having stock and commodity market overview that assists the investors to identify with the trends of the market and assists in taking smart decisions.
+							</p>
+							<a href="demo-cleaning-services-about.html" class="btn btn-primary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800">Get Free Trial</a>
 						</div>
 						<div class="col-sm-10 col-lg-6 offset-sm-1 ps-sm-5 ps-lg-0">
 							<div class="position-relative">
