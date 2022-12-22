@@ -5,7 +5,7 @@
                 <h4 class="font-weight-bold ls-0">Our Address</h4>
                 <ul class="list list-unstyled mb-0">
                     <li class="mb-1">
-                        12345 Porto Blvd.
+                        12345 Stock Benifit Blvd.
                     </li>
                     <li class="mb-1">
                         Suite 1500
@@ -81,11 +81,11 @@
             <div class="row py-4 mt-2">
                 <div class="col-lg-6 text-center text-lg-start mb-3 mb-lg-0">
                     <a href="demo-cleaning-services.html">
-                        <img alt="Porto" width="115" height="30" src="img/logo-light.png">
+                        <img alt="Stock Benifit" width="115" height="30" src="img/logo-light.png">
                     </a>
                 </div>
                 <div class="col-lg-6 text-center text-lg-end">
-                    <p class="text-3 mb-0">Porto Cleaning Services. © 2022. All Rights Reserved</p>
+                    <p class="text-3 mb-0">Developed & Marketed by <a href="https://www.mindyourads.com">MindYourAds</a> © 2022. All Rights Reserved</p>
 
                 </div>
 

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html data-style-switcher-options="{'changeLogo': false, 'colorPrimary': '#00a1cd', 'colorSecondary': '#183f72', 'colorTertiary': '#0281d7', 'colorQuaternary': '#383f48', 'borderRadius': 4}">
 
-<!-- Mirrored from www.okler.net/previews/porto/9.9.0/demo-cleaning-services.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Dec 2022 19:31:54 GMT -->
+<!-- Mirrored from www.okler.net/previews/Stock Benifit/9.9.0/demo-cleaning-services.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Dec 2022 19:31:54 GMT -->
 
 <head>
 
@@ -10,10 +10,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Demo Cleaning Services | Porto - Multipurpose Website Template</title>
+    <title>Stock Benifit</title>
 
     <meta name="keywords" content="WebSite Template" />
-    <meta name="description" content="Porto - Multipurpose Website Template">
+    <meta name="description" content="Stock Benifit - Multipurpose Website Template">
     <meta name="author" content="okler.net">
 
     <!-- Favicon -->
