@@ -210,17 +210,13 @@
 							</div>
 							<h3 class="text-color-secondary font-weight-bold text-transform-none text-8 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Our Services
 							</h3>
-							<p class="mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">Cras a elit sit amet leo accumsan volutpat.
-								Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet
-								ullamcorper dolor, quis sollicitudin. Integer aliquet ullamcorper dolor, quis
-								sollicitudin.</p>
+							<p class="mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">We are the best Nifty, Bank Nifty Option Tips Specialist and India's Leading Stock Advisory. Our customer’s trust and the accuracy of recommendations, which we provide is the base of our establishment and make us different from others.
+								/p>
 						</div>
 						<div class="col-lg-5 col-xl-4">
 							<div class="d-flex justify-content-lg-end">
-								<a href="demo-cleaning-services-services.html" class="btn btn-primary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800">VIEW
-									ALL SERVICES</a>
-								<a href="demo-cleaning-services-contact.html" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">BOOK
-									NOW</a>
+								<a href="tel:<?= $phone ?>" class="btn btn-primary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800">Call Us</a>
+								<a href="demo-cleaning-services-contact.html" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">Free Trial</a>
 							</div>
 						</div>
 					</div>
@@ -235,11 +231,11 @@
 													<img src="img/services/services-small-1.jpg" class="img-fluid rounded-circle" alt="" />
 												</div>
 												<h4 class="custom-card-style-1-title text-color-secondary font-weight-bold mb-2">
-													Building Services</h4>
-												<p class="custom-card-style-1-description">Cras a elit sit amet leo
-													accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur
-													felis ultrices non. </p>
-												<span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span>
+													Stock Market Intraday</h4>
+												<p class="custom-card-style-1-description">All our Day Trading calls are the recommendations or best opinions which are generated from technical & fundamentals data analytics.
+												</p>
+												<span class="custom-card-style-1-link font-weight-bold">View More
+												</span>
 											</div>
 										</div>
 									</a>
@@ -252,10 +248,10 @@
 													<img src="img/services/services-small-2.jpg" class="img-fluid rounded-circle" alt="" />
 												</div>
 												<h4 class="custom-card-style-1-title text-color-secondary font-weight-bold mb-2">
-													Post Construction</h4>
-												<p class="custom-card-style-1-description">Cras a elit sit amet leo
-													accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur
-													felis ultrices non. </p>
+													Bank Nifty Futures & Options
+												</h4>
+												<p class="custom-card-style-1-description">No.1 advisory services in bank nifty futures and options. Trade with minimum capital and earn big return from option market.
+												</p>
 												<span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span>
 											</div>
 										</div>
@@ -269,10 +265,10 @@
 													<img src="img/services/services-small-3.jpg" class="img-fluid rounded-circle" alt="" />
 												</div>
 												<h4 class="custom-card-style-1-title text-color-secondary font-weight-bold mb-2">
-													Office Cleaning</h4>
-												<p class="custom-card-style-1-description">Cras a elit sit amet leo
-													accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur
-													felis ultrices non. </p>
+													Stock Futures & Options
+												</h4>
+												<p class="custom-card-style-1-description">With the right F&O tips, you will be able to grow your investments easily. Futures and options are a great way to increase your money.
+												</p>
 												<span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span>
 											</div>
 										</div>
@@ -286,10 +282,27 @@
 													<img src="img/services/services-small-1.jpg" class="img-fluid rounded-circle" alt="" />
 												</div>
 												<h4 class="custom-card-style-1-title text-color-secondary font-weight-bold mb-2">
-													Building Services</h4>
-												<p class="custom-card-style-1-description">Cras a elit sit amet leo
-													accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur
-													felis ultrices non. </p>
+													Nifty Futures & Options
+												</h4>
+												<p class="custom-card-style-1-description">We provide future and option tips with most high accuracy. Nifty trading is a perfect option for short term gains.
+
+												</p>
+												<span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div>
+									<a href="demo-cleaning-services-services-detail.html" class="text-decoration-none">
+										<div class="card custom-card-style-1">
+											<div class="card-body text-center py-5">
+												<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
+													<img src="img/services/services-small-1.jpg" class="img-fluid rounded-circle" alt="" />
+												</div>
+												<h4 class="custom-card-style-1-title text-color-secondary font-weight-bold mb-2">
+													Stock Cash
+												</h4>
+												<p class="custom-card-style-1-description">Stock Cash tips will help you earn the best returns by investing in stocks that are sure to grow in net worth and market price</p>
 												<span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span>
 											</div>
 										</div>
