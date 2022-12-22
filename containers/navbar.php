@@ -35,7 +35,7 @@
                     <div class="header-row">
                         <div class="header-logo">
                             <a href="demo-cleaning-services.php">
-                                <img src="img/logo.png" class="img-fluid" width="123" height="32" alt="" />
+                                <img src="img/logo.webp" class="img-fluid" alt="" style="max-width: 90%" />
                             </a>
                         </div>
                     </div>

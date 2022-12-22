@@ -8,7 +8,7 @@
 
 		<div role="main" class="main">
 
-			<section class="section section-with-shape-divider section-parallax bg-tertiary border-0 m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '110%', 'fadeIn': true}" data-image-src="img/backgrounds/background-1.jpg">
+			<section class="section section-with-shape-divider section-parallax bg-tertiary border-0 m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '110%', 'fadeIn': true}" data-image-src="img/backgrounds/background-1.webp">
 				<div class="shape-divider shape-divider-bottom" style="height: 576px;">
 					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 576" preserveAspectRatio="xMinYMin">
 						<path class="custom-svg-fill-color-tertiary" d="M-12,66c13.35,40.03,28.35,72.62,41,97c12.78,24.63,30.56,58.44,62,97c19.57,24,36.66,40.31,49,52
@@ -179,16 +179,16 @@
 							</p>
 							<p class="pb-1 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1600">Stock Benifits is a pioneering research advisory having a team of specialized financial market analysts having massive experience in carrying out capital market research. We deliver reliable tips and advices for stocks, Intraday Trading, NIFTY, Bank Nifty, Stock Option, future and option (F&O) traded in the NSE and BSE, Commodities such as bullion and metals traded in the MCX and NCDEX. We offer daily and weekly reports having stock and commodity market overview that assists the investors to identify with the trends of the market and assists in taking smart decisions.
 							</p>
-							<a href="demo-cleaning-services-about.html" class="btn btn-primary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800">Get Free Trial</a>
+							<a href="demo-cleaning-services-about.php" class="btn btn-primary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800">Get Free Trial</a>
 						</div>
 						<div class="col-sm-10 col-lg-6 offset-sm-1 ps-sm-5 ps-lg-0">
 							<div class="position-relative">
 								<div data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.2, 'transition': true, 'transitionDuration': 1000, 'isInsideSVG': true}">
-									<img src="img/generic/generic-2.jpg" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800" alt="" />
+									<img src="img/generic/generic-2.webp" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800" alt="" />
 								</div>
 								<div class="position-absolute top-50pct left-50pct transform3dxy-n50" style="left: 25%;">
 									<div data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.3, 'transition': true, 'transitionDuration': 1000, 'isInsideSVG': true}">
-										<img src="img/generic/generic-1.jpg" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1400" alt="" />
+										<img src="img/generic/generic-1.webp" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1400" alt="" />
 									</div>
 								</div>
 							</div>
@@ -216,7 +216,7 @@
 						<div class="col-lg-5 col-xl-4">
 							<div class="d-flex justify-content-lg-end">
 								<a href="tel:<?= $phone ?>" class="btn btn-primary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800">Call Us</a>
-								<a href="demo-cleaning-services-contact.html" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">Free Trial</a>
+								<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">Free Trial</a>
 							</div>
 						</div>
 					</div>
@@ -224,11 +224,11 @@
 						<div class="col">
 							<div class="owl-carousel nav-outside nav-arrows-1 custom-carousel-box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 3}, '1199': {'items': 3}}, 'autoplay': false, 'autoplayTimeout': 5000, 'autoplayHoverPause': true, 'dots': false, 'nav': true, 'loop': false, 'margin': 20, 'stagePadding': '75'}">
 								<div>
-									<a href="demo-cleaning-services-services-detail.html" class="text-decoration-none">
+									<a href="demo-cleaning-services-services-detail.php" class="text-decoration-none">
 										<div class="card custom-card-style-1">
 											<div class="card-body text-center py-5">
 												<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
-													<img src="img/services/services-small-1.jpg" class="img-fluid rounded-circle" alt="" />
+													<img src="img/services/services-small-1.webp" class="img-fluid rounded-circle" alt="" />
 												</div>
 												<h4 class="custom-card-style-1-title text-color-secondary font-weight-bold mb-2">
 													Stock Market Intraday</h4>
@@ -241,11 +241,11 @@
 									</a>
 								</div>
 								<div>
-									<a href="demo-cleaning-services-services-detail.html" class="text-decoration-none">
+									<a href="demo-cleaning-services-services-detail.php" class="text-decoration-none">
 										<div class="card custom-card-style-1">
 											<div class="card-body text-center py-5">
 												<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
-													<img src="img/services/services-small-2.jpg" class="img-fluid rounded-circle" alt="" />
+													<img src="img/services/services-small-2.webp" class="img-fluid rounded-circle" alt="" />
 												</div>
 												<h4 class="custom-card-style-1-title text-color-secondary font-weight-bold mb-2">
 													Bank Nifty Futures & Options
@@ -258,11 +258,11 @@
 									</a>
 								</div>
 								<div>
-									<a href="demo-cleaning-services-services-detail.html" class="text-decoration-none">
+									<a href="demo-cleaning-services-services-detail.php" class="text-decoration-none">
 										<div class="card custom-card-style-1">
 											<div class="card-body text-center py-5">
 												<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
-													<img src="img/services/services-small-3.jpg" class="img-fluid rounded-circle" alt="" />
+													<img src="img/services/services-small-3.webp" class="img-fluid rounded-circle" alt="" />
 												</div>
 												<h4 class="custom-card-style-1-title text-color-secondary font-weight-bold mb-2">
 													Stock Futures & Options
@@ -275,11 +275,11 @@
 									</a>
 								</div>
 								<div>
-									<a href="demo-cleaning-services-services-detail.html" class="text-decoration-none">
+									<a href="demo-cleaning-services-services-detail.php" class="text-decoration-none">
 										<div class="card custom-card-style-1">
 											<div class="card-body text-center py-5">
 												<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
-													<img src="img/services/services-small-1.jpg" class="img-fluid rounded-circle" alt="" />
+													<img src="img/services/services-small-1.webp" class="img-fluid rounded-circle" alt="" />
 												</div>
 												<h4 class="custom-card-style-1-title text-color-secondary font-weight-bold mb-2">
 													Nifty Futures & Options
@@ -293,11 +293,11 @@
 									</a>
 								</div>
 								<div>
-									<a href="demo-cleaning-services-services-detail.html" class="text-decoration-none">
+									<a href="demo-cleaning-services-services-detail.php" class="text-decoration-none">
 										<div class="card custom-card-style-1">
 											<div class="card-body text-center py-5">
 												<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
-													<img src="img/services/services-small-1.jpg" class="img-fluid rounded-circle" alt="" />
+													<img src="img/services/services-small-1.webp" class="img-fluid rounded-circle" alt="" />
 												</div>
 												<h4 class="custom-card-style-1-title text-color-secondary font-weight-bold mb-2">
 													Stock Cash
@@ -314,7 +314,7 @@
 				</div>
 			</section>
 
-			<section class="section section-with-shape-divider section-height-3 overlay overlay-show overlay-color-tertiary border-0 m-0" style="background-image: url(img/demos/cleaning-services/backgrounds/background-2.jpg); background-size: cover; background-position: center;">
+			<section class="section section-with-shape-divider section-height-3 overlay overlay-show overlay-color-tertiary border-0 m-0" style="background-image: url(img/backgrounds/background-2.webp); background-size: cover; background-position: center;">
 				<div class="shape-divider" style="height: 116px;">
 					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 116" preserveAspectRatio="xMinYMin">
 						<path class="custom-svg-fill-color-tertiary-darken" d="M0,24c2.86,0.42,7.41,1.1,13,2c6.13,0.98,10.67,1.77,12,2c11.67,2.01,42.24,7.05,68,11
@@ -347,7 +347,7 @@
 						</div>
 						<div class="col-xl-3 text-center text-xl-end">
 							<div class="position-relative">
-								<a href="demo-cleaning-services-contact.html" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="550">BOOK
+								<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="550">BOOK
 									NOW IN 60 SECONDS</a>
 							</div>
 						</div>
@@ -477,11 +477,11 @@
 						<div class="col-sm-9 col-lg-5 ps-sm-5">
 							<div class="position-relative">
 								<div data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.2, 'transition': true, 'transitionDuration': 1000, 'isInsideSVG': true}">
-									<img src="img/generic/generic-4.jpg" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200" alt="" />
+									<img src="img/generic/generic-2.webp" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200" alt="" />
 								</div>
 								<div class="position-absolute top-50pct left-50pct transform3dxy-n50" style="left: 25%;">
 									<div data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.3, 'transition': true, 'transitionDuration': 1000, 'isInsideSVG': true}">
-										<img src="img/generic/generic-3.jpg" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400" alt="" />
+										<img src="img/generic/generic-3.webp" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400" alt="" />
 									</div>
 								</div>
 							</div>
@@ -587,9 +587,9 @@
 						</div>
 						<div class="col-lg-5 col-xl-4">
 							<div class="d-flex justify-content-lg-end">
-								<a href="demo-cleaning-services-portfolio.html" class="btn btn-primary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800">VIEW
+								<a href="demo-cleaning-services-portfolio.php" class="btn btn-primary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800">VIEW
 									ALL PORTFOLIO</a>
-								<a href="demo-cleaning-services-contact.html" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">BOOK
+								<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">BOOK
 									NOW</a>
 							</div>
 						</div>
@@ -598,10 +598,10 @@
 						<div class="col">
 							<div class="owl-carousel nav-outside nav-arrows-1 custom-carousel-box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 2}, '1199': {'items': 2}}, 'autoplay': false, 'autoplayTimeout': 5000, 'autoplayHoverPause': true, 'dots': false, 'nav': true, 'loop': false, 'margin': 20, 'stagePadding': '75'}">
 								<div>
-									<a href="demo-cleaning-services-portfolio-detail.html" class="text-decoration-none">
+									<a href="demo-cleaning-services-portfolio-detail.php" class="text-decoration-none">
 										<div class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-centered-icons thumb-info-hide-wrapper-bg">
 											<div class="thumb-info-wrapper overlay overlay-color-secondary">
-												<img src="img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+												<img src="img/portfolio/portfolio-1.webp" class="img-fluid" alt="">
 												<div class="thumb-info-action text-center flex-column">
 													<h4 class="text-color-light font-weight-bold text-6 mb-1">Porto
 														Building</h4>
@@ -613,10 +613,10 @@
 									</a>
 								</div>
 								<div>
-									<a href="demo-cleaning-services-portfolio-detail.html" class="text-decoration-none">
+									<a href="demo-cleaning-services-portfolio-detail.php" class="text-decoration-none">
 										<div class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-centered-icons thumb-info-hide-wrapper-bg">
 											<div class="thumb-info-wrapper overlay overlay-color-secondary">
-												<img src="img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+												<img src="img/portfolio/portfolio-2.webp" class="img-fluid" alt="">
 												<div class="thumb-info-action text-center flex-column">
 													<h4 class="text-color-light font-weight-bold text-6 mb-1">Porto
 														Office</h4>
@@ -628,10 +628,10 @@
 									</a>
 								</div>
 								<div>
-									<a href="demo-cleaning-services-portfolio-detail.html" class="text-decoration-none">
+									<a href="demo-cleaning-services-portfolio-detail.php" class="text-decoration-none">
 										<div class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-centered-icons thumb-info-hide-wrapper-bg">
 											<div class="thumb-info-wrapper overlay overlay-color-secondary">
-												<img src="img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+												<img src="img/portfolio/portfolio-3.webp" class="img-fluid" alt="">
 												<div class="thumb-info-action text-center flex-column">
 													<h4 class="text-color-light font-weight-bold text-6 mb-1">Porto
 														Enterprise</h4>
@@ -643,10 +643,10 @@
 									</a>
 								</div>
 								<div>
-									<a href="demo-cleaning-services-portfolio-detail.html" class="text-decoration-none">
+									<a href="demo-cleaning-services-portfolio-detail.php" class="text-decoration-none">
 										<div class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-centered-icons thumb-info-hide-wrapper-bg">
 											<div class="thumb-info-wrapper overlay overlay-color-secondary">
-												<img src="img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+												<img src="img/portfolio/portfolio-4.webp" class="img-fluid" alt="">
 												<div class="thumb-info-action text-center flex-column">
 													<h4 class="text-color-light font-weight-bold text-6 mb-1">Porto Home
 													</h4>
@@ -690,7 +690,7 @@
 										<div class="card-body text-center bg-color-light-scale-1 py-5">
 											<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
 												<a href="#">
-													<img src="img/team/team-1.jpg" class="img-fluid rounded-circle" alt="" />
+													<img src="img/team/team-1.webp" class="img-fluid rounded-circle" alt="" />
 												</a>
 											</div>
 											<h4 class="text-color-secondary font-weight-bold line-height-1 text-5 mb-0">
@@ -711,7 +711,7 @@
 										<div class="card-body text-center bg-color-light-scale-1 py-5">
 											<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
 												<a href="#">
-													<img src="img/team/team-2.jpg" class="img-fluid rounded-circle" alt="" />
+													<img src="img/team/team-2.webp" class="img-fluid rounded-circle" alt="" />
 												</a>
 											</div>
 											<h4 class="text-color-secondary font-weight-bold line-height-1 text-5 mb-0">
@@ -732,7 +732,7 @@
 										<div class="card-body text-center bg-color-light-scale-1 py-5">
 											<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
 												<a href="#">
-													<img src="img/team/team-3.jpg" class="img-fluid rounded-circle" alt="" />
+													<img src="img/team/team-3.webp" class="img-fluid rounded-circle" alt="" />
 												</a>
 											</div>
 											<h4 class="text-color-secondary font-weight-bold line-height-1 text-5 mb-0">
@@ -753,7 +753,7 @@
 										<div class="card-body text-center bg-color-light-scale-1 py-5">
 											<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
 												<a href="#">
-													<img src="img/team/team-1.jpg" class="img-fluid rounded-circle" alt="" />
+													<img src="img/team/team-1.webp" class="img-fluid rounded-circle" alt="" />
 												</a>
 											</div>
 											<h4 class="text-color-secondary font-weight-bold line-height-1 text-5 mb-0">
@@ -816,7 +816,7 @@
 										</blockquote>
 										<div class="testimonial-author">
 											<div class="testimonial-author-thumbnail">
-												<img src="img/clients/client-1.jpg" class="img-fluid rounded-circle" alt="">
+												<img src="img/clients/client-1.webp" class="img-fluid rounded-circle" alt="">
 											</div>
 											<p><strong class="text-color-light font-weight-semibold text-4 mb-1">John
 													Smith</strong><span class="text-color-light text-2">NEW YORK</span>
@@ -832,7 +832,7 @@
 										</blockquote>
 										<div class="testimonial-author">
 											<div class="testimonial-author-thumbnail">
-												<img src="img/clients/client-2.jpg" class="img-fluid rounded-circle" alt="">
+												<img src="img/clients/client-2.webp" class="img-fluid rounded-circle" alt="">
 											</div>
 											<p><strong class="text-color-light font-weight-semibold text-4 mb-1">Monica
 													Doe</strong><span class="text-color-light text-2">NEW YORK</span>
@@ -848,7 +848,7 @@
 										</blockquote>
 										<div class="testimonial-author">
 											<div class="testimonial-author-thumbnail">
-												<img src="img/clients/client-3.jpg" class="img-fluid rounded-circle" alt="">
+												<img src="img/clients/client-3.webp" class="img-fluid rounded-circle" alt="">
 											</div>
 											<p><strong class="text-color-light font-weight-semibold text-4 mb-1">John
 													Smith</strong><span class="text-color-light text-2">NEW YORK</span>
@@ -864,7 +864,7 @@
 										</blockquote>
 										<div class="testimonial-author">
 											<div class="testimonial-author-thumbnail">
-												<img src="img/clients/client-4.jpg" class="img-fluid rounded-circle" alt="">
+												<img src="img/clients/client-4.webp" class="img-fluid rounded-circle" alt="">
 											</div>
 											<p><strong class="text-color-light font-weight-semibold text-4 mb-1">John
 													Doe</strong><span class="text-color-light text-2">NEW YORK</span>
@@ -938,7 +938,7 @@
 													<span class="ms-1">High Dusting</span>
 												</li>
 											</ul>
-											<a href="demo-cleaning-services-contact.html" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
+											<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
 												NOW</a>
 										</div>
 									</div>
@@ -989,7 +989,7 @@
 													<span class="ms-1">High Dusting</span>
 												</li>
 											</ul>
-											<a href="demo-cleaning-services-contact.html" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
+											<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
 												NOW</a>
 										</div>
 									</div>
@@ -1040,7 +1040,7 @@
 													<span class="ms-1">High Dusting</span>
 												</li>
 											</ul>
-											<a href="demo-cleaning-services-contact.html" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
+											<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
 												NOW</a>
 										</div>
 									</div>
@@ -1091,7 +1091,7 @@
 													<span class="ms-1">High Dusting</span>
 												</li>
 											</ul>
-											<a href="demo-cleaning-services-contact.html" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
+											<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
 												NOW</a>
 										</div>
 									</div>
@@ -1142,7 +1142,7 @@
 													<span class="ms-1">High Dusting</span>
 												</li>
 											</ul>
-											<a href="demo-cleaning-services-contact.html" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
+											<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
 												NOW</a>
 										</div>
 									</div>
@@ -1153,7 +1153,7 @@
 				</div>
 			</section>
 
-			<section class="section section-with-shape-divider overlay overlay-show border-0 m-0" style="background-image: url(img/demos/cleaning-services/backgrounds/background-3.jpg); background-size: cover; background-position: center;">
+			<section class="section section-with-shape-divider overlay overlay-show border-0 m-0" style="background-image: url(img/backgrounds/background-3.webp); background-size: cover; background-position: center;">
 				<div class="shape-divider shape-divider-reverse-x" style="height: 102px;">
 					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 102" preserveAspectRatio="xMinYMin">
 						<path fill="#F7F7F7" d="M1895,78c-56.71-6.03-113.75-12.1-167-17c-75.42-6.94-133.81-10.66-171-13c-62.1-3.91-108.85-5.97-155-8
@@ -1180,7 +1180,7 @@
 							</h2>
 							<p class="custom-font-secondary custom-font-size-1 custom-text-color-1 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Our Staff is
 								trained to clean everything you need</p>
-							<a href="demo-cleaning-services-prices.html" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">VIEW
+							<a href="demo-cleaning-services-prices.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">VIEW
 								PRICES</a>
 						</div>
 					</div>
@@ -1207,7 +1207,7 @@
 						</div>
 						<div class="col-lg-auto px-lg-0">
 							<div class="d-flex justify-content-lg-end">
-								<a href="demo-cleaning-services-blog.html" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">VIEW
+								<a href="demo-cleaning-services-blog.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">VIEW
 									BLOG</a>
 							</div>
 						</div>
@@ -1217,8 +1217,8 @@
 							<article class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800">
 								<div class="card border-0 border-radius-0 box-shadow-1">
 									<div class="card-body p-3 z-index-1">
-										<a href="demo-cleaning-services-blog-post.html">
-											<img class="card-img-top border-radius-0 mb-2" src="img/blog/blog-1.jpg" alt="Card Image">
+										<a href="demo-cleaning-services-blog-post.php">
+											<img class="card-img-top border-radius-0 mb-2" src="img/blog/blog-1.webp" alt="Card Image">
 										</a>
 										<p class="text-uppercase text-color-default text-1 my-2">
 											<time pubdate datetime="2022-01-10">10 Jan 2022</time>
@@ -1228,11 +1228,11 @@
 											John Doe
 										</p>
 										<div class="card-body p-0">
-											<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.html">Lorem ipsum dolor sit
+											<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.php">Lorem ipsum dolor sit
 													amet</a></h4>
 											<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing
 												elit. Nunc viverra lorem , consectetur adipiscing elit...</p>
-											<a href="demo-cleaning-services-blog-post.html" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
+											<a href="demo-cleaning-services-blog-post.php" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
 												MORE</a>
 										</div>
 									</div>
@@ -1243,8 +1243,8 @@
 							<article class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="2000">
 								<div class="card border-0 border-radius-0 box-shadow-1">
 									<div class="card-body p-3 z-index-1">
-										<a href="demo-cleaning-services-blog-post.html">
-											<img class="card-img-top border-radius-0 mb-2" src="img/blog/blog-2.jpg" alt="Card Image">
+										<a href="demo-cleaning-services-blog-post.php">
+											<img class="card-img-top border-radius-0 mb-2" src="img/blog/blog-2.webp" alt="Card Image">
 										</a>
 										<p class="text-uppercase text-color-default text-1 my-2">
 											<time pubdate datetime="2022-01-10">10 Jan 2022</time>
@@ -1254,11 +1254,11 @@
 											John Doe
 										</p>
 										<div class="card-body p-0">
-											<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.html">Lorem ipsum dolor sit
+											<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.php">Lorem ipsum dolor sit
 													amet</a></h4>
 											<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing
 												elit. Nunc viverra lorem , consectetur adipiscing elit...</p>
-											<a href="demo-cleaning-services-blog-post.html" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
+											<a href="demo-cleaning-services-blog-post.php" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
 												MORE</a>
 										</div>
 									</div>
@@ -1281,12 +1281,12 @@
 													John Doe
 												</p>
 												<div class="card-body p-0">
-													<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.html">Lorem ipsum
+													<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.php">Lorem ipsum
 															dolor sit amet</a></h4>
 													<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur
 														adipiscing elit. Nunc viverra lorem , consectetur adipiscing
 														elit...</p>
-													<a href="demo-cleaning-services-blog-post.html" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
+													<a href="demo-cleaning-services-blog-post.php" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
 														MORE</a>
 												</div>
 											</div>
@@ -1306,12 +1306,12 @@
 													John Doe
 												</p>
 												<div class="card-body p-0">
-													<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.html">Lorem ipsum
+													<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.php">Lorem ipsum
 															dolor sit amet</a></h4>
 													<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur
 														adipiscing elit. Nunc viverra lorem , consectetur adipiscing
 														elit...</p>
-													<a href="demo-cleaning-services-blog-post.html" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
+													<a href="demo-cleaning-services-blog-post.php" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
 														MORE</a>
 												</div>
 											</div>
@@ -1350,6 +1350,6 @@
 
 </body>
 
-<!-- Mirrored from www.okler.net/previews/porto/9.9.0/demo-cleaning-services.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Dec 2022 19:32:30 GMT -->
+<!-- Mirrored from www.okler.net/previews/porto/9.9.0/demo-cleaning-services.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Dec 2022 19:32:30 GMT -->
 
 </html>

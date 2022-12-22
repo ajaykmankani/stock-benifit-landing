@@ -5,13 +5,7 @@
                 <h4 class="font-weight-bold ls-0">Our Address</h4>
                 <ul class="list list-unstyled mb-0">
                     <li class="mb-1">
-                        12345 Stock Benifit Blvd.
-                    </li>
-                    <li class="mb-1">
-                        Suite 1500
-                    </li>
-                    <li class="mb-0">
-                        Los Angeles, California 90000
+                        We have leading Research Analysts who are working on In-house "Harmonic Price & Time Study". This method is a "Lead" Indicator generating advance signals compare to other’s Technical laggard indicators which most of other analysts are using in the Industry Stock Benifits Investment is a pioneering Research Advisory and Coaching having a team of specialized financial.
                     </li>
                 </ul>
             </div>
@@ -27,31 +21,31 @@
                         <a href="tel:<?= $phone ?>" class="text-uppercase text-color-light text-color-hover-secondary text-decoration-none text-5 font-weight-bold pb-0"><?= $phone ?></a>
                     </div>
                 </div>
-                <a href="demo-cleaning-services-contact.html" class="btn btn-primary font-weight-bold px-5 py-3 mb-2">BOOK NOW</a>
+                <a href="demo-cleaning-services-contact.php" class="btn btn-primary font-weight-bold px-5 py-3 mb-2">BOOK NOW</a>
             </div>
             <div class="col-md-4 col-lg-2 mb-4 mb-md-0">
                 <h4 class="font-weight-bold ls-0">Our Services</h4>
                 <ul class="list-unstyled mb-0">
                     <li class="mb-1">
-                        <a href="demo-cleaning-services-services-detail.html">Building Services</a>
+                        <a href="demo-cleaning-services-services-detail.php">Building Services</a>
                     </li>
                     <li class="mb-1">
-                        <a href="demo-cleaning-services-services-detail.html">Post Construction</a>
+                        <a href="demo-cleaning-services-services-detail.php">Post Construction</a>
                     </li>
                     <li class="mb-0">
-                        <a href="demo-cleaning-services-services-detail.html">Office Cleaning</a>
+                        <a href="demo-cleaning-services-services-detail.php">Office Cleaning</a>
                     </li>
                 </ul>
-                <a href="demo-cleaning-services-services.html" class="btn btn-link font-weight-bold text-decoration-none ps-0">VIEW MORE</a>
+                <a href="demo-cleaning-services-services.php" class="btn btn-link font-weight-bold text-decoration-none ps-0">VIEW MORE</a>
             </div>
             <div class="col-md-4 col-lg-2 mb-4 mb-md-0">
                 <h4 class="font-weight-bold ls-0">About</h4>
                 <ul class="list-unstyled mb-0">
                     <li class="mb-1">
-                        <a href="demo-cleaning-services-about-us.html">About Us</a>
+                        <a href="demo-cleaning-services-about-us.php">About Us</a>
                     </li>
                     <li class="mb-0">
-                        <a href="demo-cleaning-services-contact.html">Send a Message</a>
+                        <a href="demo-cleaning-services-contact.php">Send a Message</a>
                     </li>
                 </ul>
             </div>
@@ -80,19 +74,17 @@
             </div>
             <div class="row py-4 mt-2">
                 <div class="col-lg-6 text-center text-lg-start mb-3 mb-lg-0">
-                    <a href="demo-cleaning-services.html">
-                        <img alt="Stock Benifit" width="115" height="30" src="img/logo-light.png">
+                    <a href="demo-cleaning-services.php">
+                        <img alt="Stock Benifit" src="img/logo-light.webp" style="max-width: 25%">
                     </a>
                 </div>
                 <div class="col-lg-6 text-center text-lg-end">
-                    <p class="text-3 mb-0">Developed & Marketed by <a href="https://www.mindyourads.com">MindYourAds</a> © 2022. All Rights Reserved</p>
+                    <p class="text-3 mb-0">Developed & Marketed by <a href="https://www.mindyourads.com" style="color:#00bff3">MindYourAds</a> © 2022. All Rights Reserved</p>
 
                 </div>
 
             </div>
         </div>
-        <div class="container-fluid">
-            <p>SEBI Registerd Tips Provider | Best Bank Nifty Tips Provider | Stock Option Calls | Nifty Intraday Calls | Bank Nifty Option Tips | Share Market Tips | stock option tips for tomorrow | Bank Nifty Calls | Bank Nifty Tips | Intraday Trading Tips | Call Put Tips | intraday call for today | MCX Tips | Nifty Tips | Stock Future Tips | Stock Option Tips | Nifty Trading Tips | Index Option Tips Provider | genuine stock tips provider | Option Trading Tips | todays intraday tips | Index Option Trading Tips | Call Put Option Tips | Sebi Registerd Investment Advisor | best profitable shares to buy today | best intraday tips | intraday trading stocks | share market tomorrow prediction | nse tips provider | accurate intraday tips| intraday call service | short term delivery tips | best option tips advisory | stock market tips for intraday free | free stock tips on whatsapp | share bazar recommendation | free share market | share market tips for beginners | best share for intraday| positional calls | futures recommendations india | nse future tips | stock options tips |</p>
-        </div>
+
     </div>
 </footer>
