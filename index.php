@@ -55,15 +55,17 @@
 					</div>
 					<div class="row justify-content-center justify-content-lg-start pb-5 mb-5">
 						<div class="col-md-10 col-lg-6 text-center text-lg-end pe-lg-4 pb-5 mb-5">
-							<h1 class="text-color-light font-weight-medium line-height-4 text-10 mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">High Quality
-								<span class="font-weight-extra-bold custom-highlight-1 ws-nowrap p-1 customHighlightAnim customHighlightAnimDelay">Cleaning
-									Services</span> for all type of facilities
+							<h1 class="text-color-light font-weight-medium line-height-4 text-10 mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">We know the secret of
+
+								<span class="font-weight-extra-bold custom-highlight-1 ws-nowrap p-1 customHighlightAnim customHighlightAnimDelay">Ultimate Trading</span> Success.
 							</h1>
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
 								<p class="custom-font-secondary font-weight-light custom-font-size-1 text-color-light opacity-6 mb-4">
-									Our Staff is trained to clean everything you need</p>
+									Lets make money whether stocks go up or down with help of our expert team.
+
+								</p>
 							</div>
-							<a href="#whoweare" data-hash data-hash-offset="0" data-hash-offset-lg="150" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">LEARN MORE</a>
+							<a href="#whoweare" data-hash data-hash-offset="0" data-hash-offset-lg="150" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">Start Trading Risk Free</a>
 							<div class="spacer pt-5 my-5"></div>
 						</div>
 					</div>
@@ -339,16 +341,17 @@
 				<div class="container py-5 my-5">
 					<div class="row align-items-center justify-content-center pt-3">
 						<div class="col-md-9 col-lg-7 col-xl-9 text-center text-xl-start mb-4 mb-xl-0">
-							<h2 class="text-color-light font-weight-medium line-height-4 text-9 negative-ls-1 mb-2">For
-								<span class="font-weight-extra-bold custom-highlight-1 p-1 appear-animation" data-appear-animation="customHighlightAnim" data-appear-animation-delay="300">Residential and Commercial</span> Cleaning
+							<h2 class="text-color-light font-weight-medium line-height-4 text-9 negative-ls-1 mb-2"> Daily
+
+								<span class="font-weight-extra-bold custom-highlight-1 p-1 appear-animation" data-appear-animation="customHighlightAnim" data-appear-animation-delay="300">Highly Accurate Intraday Call</span> in all Segment.
 							</h2>
 							<p class="custom-font-secondary custom-font-size-1 font-weight-light text-color-light opacity-8 mb-0">
-								Our Staff is trained to clean everything you need!</p>
+								If you are looking for most accurate free intraday trading tips provider company in India then Stock Benifits will help you to earn maximum profit with minimum risk.
+							</p>
 						</div>
 						<div class="col-xl-3 text-center text-xl-end">
 							<div class="position-relative">
-								<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="550">BOOK
-									NOW IN 60 SECONDS</a>
+								<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="550">Get a Free Trial</a>
 							</div>
 						</div>
 					</div>
@@ -368,10 +371,8 @@
 							</div>
 							<h3 class="text-color-secondary font-weight-bold text-transform-none text-8 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Our Benefits
 							</h3>
-							<p class="mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">Cras a elit sit amet leo accumsan volutpat.
-								Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet
-								ullamcorper dolor, quis sollicitudin. Integer aliquet ullamcorper dolor, quis
-								sollicitudin.</p>
+							<p class="mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">Do You Want to Make Your Money Work for You? Get in Touch with Our Financial Planners. Our expertise in markets and finance helps you build a strong investment portfolio.
+							</p>
 						</div>
 					</div>
 					<div class="row align-items-center justify-content-center mb-4">
@@ -381,18 +382,20 @@
 									<div class="card-header" id="collapse1HeadingOne">
 										<h4 class="card-title m-0">
 											<a class="accordion-toggle text-color-dark font-weight-bold collapsed" data-bs-toggle="collapse" data-bs-target="#collapse1One" aria-expanded="false" aria-controls="collapse1One">
-												1 - Why Choose Porto Cleaning Services?
+												1-What are stock advisory services?
+
 											</a>
 										</h4>
 									</div>
 									<div id="collapse1One" class="collapse" aria-labelledby="collapse1HeadingOne" data-bs-parent="#accordion1">
 										<div class="card-body">
-											<p class="mb-0">Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien. Praesent id enim sit amet odio vulputate eleifend in in
-												tortor. Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien. Praesent id enim sit amet odio vulputate eleifend in in
-												tortor. Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien.</p>
+											<p class="mb-0">A stock market advisory firm in India acts as an investment advisor, providing advice on stock market investing. Stock Benifits offers the best in class Investment Advisory Services which includes:</p>
+											<p>>Financial Planning to achieve desired goal</p>
+											<p>>Diversification of portfolio for hedging risk in equity</p>
+											<p>>Risk profiling based on Investment Objective.</p>
+											<p>>Reviewing and rebalancing stock options</p>
+											<p>>Easy to understand investment philosophy</p>
+											</p>
 										</div>
 									</div>
 								</div>
@@ -400,18 +403,14 @@
 									<div class="card-header" id="collapse1HeadingTwo">
 										<h4 class="card-title m-0">
 											<a class="accordion-toggle text-color-dark font-weight-bold collapsed" data-bs-toggle="collapse" data-bs-target="#collapse1Two" aria-expanded="false" aria-controls="collapse1Two">
-												2 - Cras a elit sit amet leo accumsan?
+												2-Why Choose Stock Benifits Advisory Services?
 											</a>
 										</h4>
 									</div>
 									<div id="collapse1Two" class="collapse" aria-labelledby="collapse1HeadingTwo" data-bs-parent="#accordion1">
 										<div class="card-body">
-											<p class="mb-0">Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien. Praesent id enim sit amet odio vulputate eleifend in in
-												tortor. Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien. Praesent id enim sit amet odio vulputate eleifend in in
-												tortor. Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien.</p>
+											<p class="mb-0">Stock Benifits is One of the top Stock Market advisory companies in India. We provides services for Equity Cash/Intraday, Option(Call-Put) and Future(Derivatives). Our customer’s trust and the accuracy of recommendations, which we provide is the base of our establishment and make us different from others.
+											</p>
 										</div>
 									</div>
 								</div>
@@ -419,7 +418,7 @@
 									<div class="card-header" id="collapse1HeadingThree">
 										<h4 class="card-title m-0">
 											<a class="accordion-toggle text-color-dark font-weight-bold collapsed" data-bs-toggle="collapse" data-bs-target="#collapse1Three" aria-expanded="false" aria-controls="collapse1Three">
-												3 - Hel officitur felis ultricis nan?
+												3-Why should I hire Share Marke
 											</a>
 										</h4>
 									</div>
