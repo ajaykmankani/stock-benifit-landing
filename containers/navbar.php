@@ -33,7 +33,7 @@
                 <div class="header-column">
                     <div class="header-row">
                         <div class="header-logo">
-                            <a href="demo-cleaning-services.php">
+                            <a href="index.php">
                                 <img src="img/logo.webp" class="img-fluid" alt="" style="max-width: 90%" />
                             </a>
                         </div>
