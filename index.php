@@ -418,18 +418,15 @@
 									<div class="card-header" id="collapse1HeadingThree">
 										<h4 class="card-title m-0">
 											<a class="accordion-toggle text-color-dark font-weight-bold collapsed" data-bs-toggle="collapse" data-bs-target="#collapse1Three" aria-expanded="false" aria-controls="collapse1Three">
-												3-Why should I hire Share Marke
+												3-Why should I hire Share Market Advisory services?
+
 											</a>
 										</h4>
 									</div>
 									<div id="collapse1Three" class="collapse" aria-labelledby="collapse1HeadingThree" data-bs-parent="#accordion1">
 										<div class="card-body">
-											<p class="mb-0">Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien. Praesent id enim sit amet odio vulputate eleifend in in
-												tortor. Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien. Praesent id enim sit amet odio vulputate eleifend in in
-												tortor. Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien.</p>
+											<p class="mb-0">The key advantage of hiring a stock market advisory service is that he provides you with all the tailor-made research and keep you posted about your investment and new investment avenues. So rather than wasting your own time you can smartly use it in your own profession and can invest more with your stock advisor.
+											</p>
 										</div>
 									</div>
 								</div>
@@ -437,18 +434,16 @@
 									<div class="card-header" id="collapse1HeadingFour">
 										<h4 class="card-title m-0">
 											<a class="accordion-toggle text-color-dark font-weight-bold collapsed" data-bs-toggle="collapse" data-bs-target="#collapse1Four" aria-expanded="false" aria-controls="collapse1Four">
-												4 - Wuspaisse hendreirit vehicula leo?
+												4-Why investors and traders trust our Stock Market Services ?
+
 											</a>
 										</h4>
 									</div>
 									<div id="collapse1Four" class="collapse" aria-labelledby="collapse1HeadingFour" data-bs-parent="#accordion1">
 										<div class="card-body">
-											<p class="mb-0">Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien. Praesent id enim sit amet odio vulputate eleifend in in
-												tortor. Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien. Praesent id enim sit amet odio vulputate eleifend in in
-												tortor. Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien.</p>
+											<p class="mb-0">Before providing suggestions, we do a thorough analysis of your risk tolerance. Also help you diversify not just across asset classes, but also between accounts, individual funds, and product providers, so you don't put all your eggs in one basket.
+												Chosen High Volume stocks, to ensure you make real profits, not just on the records. Our Trained Team of Analysts are equipped with the tools and methods of research, to give you the Best Buy/Sell Calls.
+											</p>
 										</div>
 									</div>
 								</div>
@@ -456,18 +451,14 @@
 									<div class="card-header" id="collapse1HeadingFive">
 										<h4 class="card-title m-0">
 											<a class="accordion-toggle text-color-dark font-weight-bold collapsed" data-bs-toggle="collapse" data-bs-target="#collapse1Five" aria-expanded="false" aria-controls="collapse1Five">
-												5 - Lintegers aliquet ullamcorper dollor, quis sollic tudin?
+												5-Why Choose a SEBI Registered Investment Advisor ?
+
 											</a>
 										</h4>
 									</div>
 									<div id="collapse1Five" class="collapse" aria-labelledby="collapse1HeadingFive" data-bs-parent="#accordion1">
 										<div class="card-body">
-											<p class="mb-0">Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien. Praesent id enim sit amet odio vulputate eleifend in in
-												tortor. Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien. Praesent id enim sit amet odio vulputate eleifend in in
-												tortor. Donec tellus massa, tristique sit amet condim vel, facilisis
-												quis sapien.</p>
+											<p class="mb-0">SEBI Registered Investment Advisors can charge only a fee directly to investors and cannot earn any revenues. The first thing to check is whether the financial advisor has the required credentials and qualifications. A financial planner should have sufficient knowledge on the subject. To begin with, your financial planner should be a SEBI registered investment advisor.</p>
 										</div>
 									</div>
 								</div>
@@ -511,53 +502,65 @@
 				<div class="container py-5 my-5">
 					<div class="row justify-content-center pb-2 mt-2 mb-4">
 						<div class="col-lg-9 text-center">
-							<h2 class="text-color-secondary font-weight-bold text-8 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Our Process
-							</h2>
-							<p class="custom-font-secondary text-4 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Get reliable &
-								affordable cleaning services for your facility with a 100% satisfaction guaranteed!</p>
-							<p class="mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">Cras a elit sit amet leo accumsan volutpat.
-								Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet
-								ullamcorper dolor, quis sollicitudin.</p>
+							<h2 class="text-color-secondary font-weight-bold text-8 mb-3 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">Our Features</h2>
+							<p class="custom-font-secondary text-4 mb-4 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400" style="animation-delay: 400ms;">We Strongly Suggest An Effective Intraday Trading Strategy Not Just Only Intraday Tips For Trading.</p>
+							<p class="mb-0 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600" style="animation-delay: 600ms;">Are you looking for the best smart tips Providing company in India? Then your search ends here because we have been recognized as one of the most outstanding choice for accurate tips provider in India.</p>
 						</div>
 					</div>
 					<div class="featured-boxes featured-boxes-style-4 custom-featured-boxes-style-1">
 						<div class="row justify-content-center">
 							<div class="col-md-8 col-lg-4">
-								<div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
+								<div class="featured-box featured-box-primary featured-box-effect-5 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300" style="animation-delay: 300ms;">
 									<div class="box-content text-center">
 										<div class="custom-featured-icon-wrapper bg-secondary mb-4">
-											<img src="img/icons/icon-1.png" class="img-fluid icon-featured" alt="" />
+											<img src="img/icons/icon-1.png" class="img-fluid icon-featured" alt="">
 										</div>
-										<h3 class="text-transform-none font-weight-bold custom-font-size-1 mb-3">Book
-											Online</h3>
-										<p class="px-3 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-											Nunc viverra erat orci, ac auctor.</p>
+										<h3 class="text-transform-none font-weight-bold custom-font-size-1 mb-3">Minimum Risk / Reward Ratio</h3>
+										<p class="px-3 mb-0">Obtaining higher returns is our primary goal. That's why the risk/reward ratio we use to manage capital and risk of loss.</p>
 									</div>
 								</div>
 							</div>
 							<div class="col-md-8 col-lg-4">
-								<div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
+								<div class="featured-box featured-box-primary featured-box-effect-5 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500" style="animation-delay: 500ms;">
 									<div class="box-content text-center">
 										<div class="custom-featured-icon-wrapper bg-secondary mb-4">
-											<img src="img/icons/icon-2.png" class="img-fluid icon-featured" alt="" />
+											<img src="img/icons/icon-2.png" class="img-fluid icon-featured" alt="">
 										</div>
-										<h3 class="text-transform-none font-weight-bold custom-font-size-1 mb-3">We
-											Clean</h3>
-										<p class="px-3 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-											Nunc viverra erat orci, ac auctor.</p>
+										<h3 class="text-transform-none font-weight-bold custom-font-size-1 mb-3">Extensive Research</h3>
+										<p class="px-3 mb-0">Our extensive stock research helps to evaluate a stock's strengths, weaknesses and growth prospects.</p>
 									</div>
 								</div>
 							</div>
 							<div class="col-md-8 col-lg-4">
-								<div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
+								<div class="featured-box featured-box-primary featured-box-effect-5 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700" style="animation-delay: 700ms;">
 									<div class="box-content text-center">
 										<div class="custom-featured-icon-wrapper bg-secondary mb-4">
-											<img src="img/icons/icon-3.png" class="img-fluid icon-featured" alt="" />
+											<img src="img/icons/icon-3.png" class="img-fluid icon-featured" alt="">
 										</div>
-										<h3 class="text-transform-none font-weight-bold custom-font-size-1 mb-3">You
-											Relax</h3>
-										<p class="px-3 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-											Nunc viverra erat orci, ac auctor.</p>
+										<h3 class="text-transform-none font-weight-bold custom-font-size-1 mb-3">Expert Advice</h3>
+										<p class="px-3 mb-0">Get direct discussion with our analyst team for outstanding result. Get research based stock prediction with guidance.&nbsp;</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-8 col-lg-4">
+								<div class="featured-box featured-box-primary featured-box-effect-5 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700" style="animation-delay: 700ms;">
+									<div class="box-content text-center">
+										<div class="custom-featured-icon-wrapper bg-secondary mb-4">
+											<img src="img/icons/icon-3.png" class="img-fluid icon-featured" alt="">
+										</div>
+										<h3 class="text-transform-none font-weight-bold custom-font-size-1 mb-3">Personalized Customer Support</h3>
+										<p class="px-3 mb-0">Our dedicated customer support team helps you with all you queries related to market investment.</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-8 col-lg-4">
+								<div class="featured-box featured-box-primary featured-box-effect-5 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700" style="animation-delay: 700ms;">
+									<div class="box-content text-center">
+										<div class="custom-featured-icon-wrapper bg-secondary mb-4">
+											<img src="img/icons/icon-3.png" class="img-fluid icon-featured" alt="">
+										</div>
+										<h3 class="text-transform-none font-weight-bold custom-font-size-1 mb-3">Smart Trading</h3>
+										<p class="px-3 mb-0">There are plenty of trading strategies available, we pick the right strategy that helps you stay profitable in the long run.</p>
 									</div>
 								</div>
 							</div>
@@ -595,8 +598,8 @@
 					<!-- <button class="modal-button">Click here to login</button> -->
 					<div class="row appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="2000">
 						<div class="col">
-							<div class="table-data mt-md-5">
-								<table class="table" style="font-size: 12px;">
+							<div class="table-data mt-md-5 table-responsive">
+								<table class="table table-striped table-hover" style="font-size: 12px;">
 									<thead>
 										<tr>
 											<th>DATE</th>
