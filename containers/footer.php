@@ -1,3 +1,4 @@
+<?php include('components/forms/popup.php'); ?>
 <footer id="footer" class="footer-reveal bg-color-secondary border-0 mt-0">
     <div class="container container-xl-custom pt-4 pb-3">
         <div class="row py-5">

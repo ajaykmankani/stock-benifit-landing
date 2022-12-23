@@ -65,7 +65,7 @@
 
 								</p>
 							</div>
-							<a href="#whoweare" data-hash data-hash-offset="0" data-hash-offset-lg="150" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">Start Trading Risk Free</a>
+							<div data-hash data-hash-offset="0" data-hash-offset-lg="150" class="modal-button btn btn-secondary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">Start Trading Risk Free</div>
 							<div class="spacer pt-5 my-5"></div>
 						</div>
 					</div>
@@ -78,7 +78,7 @@
 						<div class="card border-0 custom-border-radius-1 box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
 							<div class="card-body p-5">
 								<h2 class="text-color-secondary font-weight-bold text-7 line-height-1 mb-1">Request a
-									Callback</h2>
+									Callback </h2>
 								<p class="custom-font-secondary text-4 pb-1 mb-4">Enter your details in the form and we
 									will call you back.</p>
 								<?php include('components/forms/form_banner.php'); ?>
@@ -181,7 +181,7 @@
 							</p>
 							<p class="pb-1 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1600">Stock Benifits is a pioneering research advisory having a team of specialized financial market analysts having massive experience in carrying out capital market research. We deliver reliable tips and advices for stocks, Intraday Trading, NIFTY, Bank Nifty, Stock Option, future and option (F&O) traded in the NSE and BSE, Commodities such as bullion and metals traded in the MCX and NCDEX. We offer daily and weekly reports having stock and commodity market overview that assists the investors to identify with the trends of the market and assists in taking smart decisions.
 							</p>
-							<a href="demo-cleaning-services-about.php" class="btn btn-primary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800">Get Free Trial</a>
+							<div href="demo-cleaning-services-about.php" class="modal-button  btn btn-primary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800">Get Free Trial</div>
 						</div>
 						<div class="col-sm-10 col-lg-6 offset-sm-1 ps-sm-5 ps-lg-0">
 							<div class="position-relative">
@@ -217,8 +217,8 @@
 						</div>
 						<div class="col-lg-5 col-xl-4">
 							<div class="d-flex justify-content-lg-end">
-								<a href="tel:<?= $phone ?>" class="btn btn-primary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800">Call Us</a>
-								<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">Free Trial</a>
+								<a href="tel:<?= $phone ?>" class="modal-button  btn btn-primary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800">Call Us</a>
+								<div href="demo-cleaning-services-contact.php" class="modal-button  btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">Free Trial</div>
 							</div>
 						</div>
 					</div>
@@ -226,7 +226,7 @@
 						<div class="col">
 							<div class="owl-carousel nav-outside nav-arrows-1 custom-carousel-box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 3}, '1199': {'items': 3}}, 'autoplay': false, 'autoplayTimeout': 5000, 'autoplayHoverPause': true, 'dots': false, 'nav': true, 'loop': false, 'margin': 20, 'stagePadding': '75'}">
 								<div>
-									<a href="demo-cleaning-services-services-detail.php" class="text-decoration-none">
+									<a class="text-decoration-none">
 										<div class="card custom-card-style-1">
 											<div class="card-body text-center py-5">
 												<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
@@ -243,7 +243,7 @@
 									</a>
 								</div>
 								<div>
-									<a href="demo-cleaning-services-services-detail.php" class="text-decoration-none">
+									<div class="text-decoration-none">
 										<div class="card custom-card-style-1">
 											<div class="card-body text-center py-5">
 												<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
@@ -257,10 +257,10 @@
 												<span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span>
 											</div>
 										</div>
-									</a>
+									</div>
 								</div>
 								<div>
-									<a href="demo-cleaning-services-services-detail.php" class="text-decoration-none">
+									<div class="text-decoration-none">
 										<div class="card custom-card-style-1">
 											<div class="card-body text-center py-5">
 												<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
@@ -274,10 +274,10 @@
 												<span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span>
 											</div>
 										</div>
-									</a>
+									</div>
 								</div>
 								<div>
-									<a href="demo-cleaning-services-services-detail.php" class="text-decoration-none">
+									<div class="text-decoration-none">
 										<div class="card custom-card-style-1">
 											<div class="card-body text-center py-5">
 												<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
@@ -292,10 +292,10 @@
 												<span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span>
 											</div>
 										</div>
-									</a>
+									</div>
 								</div>
 								<div>
-									<a href="demo-cleaning-services-services-detail.php" class="text-decoration-none">
+									<div class="text-decoration-none">
 										<div class="card custom-card-style-1">
 											<div class="card-body text-center py-5">
 												<div class="custom-card-style-1-image-wrapper bg-primary rounded-circle d-inline-block mb-3">
@@ -308,7 +308,7 @@
 												<span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span>
 											</div>
 										</div>
-									</a>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -351,7 +351,7 @@
 						</div>
 						<div class="col-xl-3 text-center text-xl-end">
 							<div class="position-relative">
-								<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="550">Get a Free Trial</a>
+								<a href="demo-cleaning-services-contact.php" class="modal-button  btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="550">Get a Free Trial</a>
 							</div>
 						</div>
 					</div>
@@ -585,13 +585,14 @@
 						</div>
 						<div class="col-lg-5 col-xl-4">
 							<div class="d-flex justify-content-lg-end">
-								<a href="demo-cleaning-services-portfolio.php" class="btn btn-primary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800">Request Call Back
+								<a href="demo-cleaning-services-portfolio.php" class="modal-button  btn btn-primary btn-modern font-weight-bold text-3 btn-px-4 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800">Request Call Back
 								</a>
-								<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600"> Get Free Trial
+								<a href="demo-cleaning-services-contact.php" class="modal-button  btn btn-secondary btn-modern font-weight-bold text-3 btn-px-4 py-3 ms-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600"> Get Free Trial
 								</a>
 							</div>
 						</div>
 					</div>
+					<!-- <button class="modal-button">Click here to login</button> -->
 					<div class="row appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="2000">
 						<div class="col">
 							<div class="table-data mt-md-5">
@@ -1103,7 +1104,7 @@
 
 
 												</ul>
-												<a href="demo-cleaning-services-contact.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
+												<a href="demo-cleaning-services-contact.php" class="modal-button  btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
 													NOW</a>
 											</div>
 										</div>
@@ -1147,7 +1148,7 @@
 							</h2>
 							<p class="custom-font-secondary custom-font-size-1 custom-text-color-1 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Start Recovering Your Previous Loss Now
 							</p>
-							<a href="demo-cleaning-services-prices.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">Start Earning</a>
+							<a href="demo-cleaning-services-prices.php" class="modal-button  btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">Start Earning</a>
 						</div>
 					</div>
 				</div>
@@ -1173,7 +1174,7 @@
 						</div>
 						<div class="col-lg-auto px-lg-0">
 							<div class="d-flex justify-content-lg-end">
-								<a href="demo-cleaning-services-blog.php" class="btn btn-secondary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">VIEW
+								<a href="demo-cleaning-services-blog.php" class="modal-button  btn btn-secondary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">VIEW
 									BLOG</a>
 							</div>
 						</div>
@@ -1198,7 +1199,7 @@
 													amet</a></h4>
 											<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing
 												elit. Nunc viverra lorem , consectetur adipiscing elit...</p>
-											<a href="demo-cleaning-services-blog-post.php" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
+											<a href="demo-cleaning-services-blog-post.php" class="modal-button  btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
 												MORE</a>
 										</div>
 									</div>
@@ -1224,7 +1225,7 @@
 													amet</a></h4>
 											<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing
 												elit. Nunc viverra lorem , consectetur adipiscing elit...</p>
-											<a href="demo-cleaning-services-blog-post.php" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
+											<a href="demo-cleaning-services-blog-post.php" class="modal-button  btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
 												MORE</a>
 										</div>
 									</div>
@@ -1252,7 +1253,7 @@
 													<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur
 														adipiscing elit. Nunc viverra lorem , consectetur adipiscing
 														elit...</p>
-													<a href="demo-cleaning-services-blog-post.php" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
+													<a href="demo-cleaning-services-blog-post.php" class="modal-button  btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
 														MORE</a>
 												</div>
 											</div>
@@ -1277,7 +1278,7 @@
 													<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur
 														adipiscing elit. Nunc viverra lorem , consectetur adipiscing
 														elit...</p>
-													<a href="demo-cleaning-services-blog-post.php" class="btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
+													<a href="demo-cleaning-services-blog-post.php" class="modal-button  btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
 														MORE</a>
 												</div>
 											</div>
