@@ -22,7 +22,7 @@
                     </div>
                     <div class="header-column justify-content-end">
                         <div class="header-row">
-                            <a href="contact.php" class="custom-header-top-btn-style-1 btn btn-secondary font-weight-bold px-4 px-sm-5 py-3">Get Free Trial</a>
+                            <div class=" modal-button custom-header-top-btn-style-1 btn btn-secondary font-weight-bold px-4 px-sm-5 py-3">Get Free Trial</div>
                         </div>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                 <div class="header-column">
                     <div class="header-row">
                         <div class="header-logo">
-                            <a href="demo-cleaning-services.php">
+                            <a href="index.php">
                                 <img src="img/logo.webp" class="img-fluid" alt="" style="max-width: 90%" />
                             </a>
                         </div>

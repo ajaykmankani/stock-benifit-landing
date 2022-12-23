@@ -258,7 +258,7 @@
     <div class="modal-container">
         <div class="modal-left">
             <h1 class="modal-title">Welcome!</h1>
-            <p class="modal-desc">Fanny pack hexagon food truck, street art waistcoat kitsch.</p>
+            <!-- <p class="modal-desc">Fanny pack hexagon food truck, street art waistcoat kitsch.</p> -->
             <form action="components/function.php" method="post">
                 <div class="input-block">
                     <label for="email" class="input-label">Name</label>
@@ -266,8 +266,13 @@
                 </div>
                 <div class="input-block">
                     <label for="password" class="input-label">Mobile</label>
-                    <input type="text" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control" name="phone" placeholder="Your Phone Number" required>
+                    <input type="tel" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control" name="phone" placeholder="Your Phone Number" required>
                 </div>
+                <div class="input-block">
+                    <label for="password" class="input-label">Email</label>
+                    <input type="text" value="" data-msg-required="Please enter your email address." maxlength="100" class="form-control" name="email" placeholder="Your Email Address" required>
+                </div>
+
                 <div class="input-block">
                     <label for="password" class="input-label">Mobile</label>
                     <select data-msg-required="Please select a service." class="form-control" name="service" required>
@@ -284,7 +289,7 @@
                     <button class="input-button">Submit</button>
                 </div>
             </form>
-            <p class="sign-up">Don't have an account? <a href="#">Sign up now</a></p>
+
         </div>
         <div class="modal-right">
             <img src="https://img.freepik.com/free-photo/coins-bottles-with-trading-graph_1150-17751.jpg?w=1380&t=st=1671800598~exp=1671801198~hmac=f9d118fa6cde9883d8830842a18b0dcbf47458e39368fd108d8458f1d8f41287" alt="">

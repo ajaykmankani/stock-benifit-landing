@@ -50,13 +50,19 @@
                 <a href="demo-cleaning-services-services.php" class="btn btn-link font-weight-bold text-decoration-none ps-0">VIEW MORE</a>
             </div>
             <div class="col-md-4 col-lg-2 mb-4 mb-md-0">
-                <h4 class="font-weight-bold ls-0">About</h4>
+                <h4 class="font-weight-bold ls-0">Navigation</h4>
                 <ul class="list-unstyled mb-0">
                     <li class="mb-1">
-                        <a href="demo-cleaning-services-about-us.php">About Us</a>
+                        <a href="privacy.php">Privacy Policy</a>
                     </li>
                     <li class="mb-0">
-                        <a href="demo-cleaning-services-contact.php">Send a Message</a>
+                        <a href="disclaimer.php">Disclaimer</a>
+                    </li>
+                    <li class="mb-0">
+                        <a href="terms.php">Terms & Conditions</a>
+                    </li>
+                    <li class="mb-0">
+                        <a href="refund.php">Refund Policy</a>
                     </li>
                 </ul>
             </div>
