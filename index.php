@@ -213,7 +213,7 @@
 							<h3 class="text-color-secondary font-weight-bold text-transform-none text-8 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Our Services
 							</h3>
 							<p class="mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">We are the best Nifty, Bank Nifty Option Tips Specialist and India's Leading Stock Advisory. Our customer’s trust and the accuracy of recommendations, which we provide is the base of our establishment and make us different from others.
-								/p>
+							</p>
 						</div>
 						<div class="col-lg-5 col-xl-4">
 							<div class="d-flex justify-content-lg-end">
@@ -1088,10 +1088,10 @@
 												<h3 class="text-color-primary font-weight-medium text-4 pb-1 mb-4 ">
 													<?= $card ?>
 												</h3>
-												<div class="price d-flex align-items-end justify-content-center font-weight-bold text-color-dark text-12 line-height-1 pb-1 mb-4">
+												<!-- <div class="price d-flex align-items-end justify-content-center font-weight-bold text-color-dark text-12 line-height-1 pb-1 mb-4">
 													<span class="price-unit font-weight-normal custom-font-size-4 position-relative bottom-6">$</span>
 													69
-												</div>
+												</div> -->
 												<ul class="list list-unstyled pb-1 mb-4 ">
 
 													<?php foreach ($points[$x - 1] as $point) { ?>
