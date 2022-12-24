@@ -6,7 +6,7 @@
                 <h4 class="font-weight-bold ls-0">Our Address</h4>
                 <ul class="list list-unstyled mb-0">
                     <li class="mb-1">
-                        We have leading Research Analysts who are working on In-house "Harmonic Price & Time Study". This method is a "Lead" Indicator generating advance signals compare to other’s Technical laggard indicators which most of other analysts are using in the Industry Stock Benifits Investment is a pioneering Research Advisory and Coaching having a team of specialized financial.
+                        <?= $address ?>
                     </li>
                 </ul>
             </div>

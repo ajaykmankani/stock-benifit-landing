@@ -10,15 +10,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Stock Benifit</title>
+    <title>Stock Benifits - SEBI Registered Stock Advisory Company - Bank Nifty Tips - Stock Market Advisor - Share Market Tips - Intraday Trading Tips </title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Stock Benifit - Multipurpose Website Template">
     <meta name="author" content="okler.net">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
 
     <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">

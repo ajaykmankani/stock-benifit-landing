@@ -1,5 +1,5 @@
 <?php include('containers/header.php'); ?>
-<?php include('containers\navbar.php'); ?>
+<?php include('containers/navbar.php'); ?>
 
 <div class="container">
     <h2>Term &amp; Conditions</h2>

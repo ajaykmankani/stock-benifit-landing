@@ -1046,7 +1046,7 @@
 						<div class="col">
 							<div class="row">
 
-								<?php $cards = array('Index F&Os', 'Stock F&Os', 'Premium Combo Package');
+								<?php $cards = array('Index F&Os', 'Stock F&Os', 'Premium Combo Package', 'AGS Super Package');
 								$points = array(
 									array(
 										'Pre-Market View & Trading Levels & Strategy',
@@ -1074,15 +1074,27 @@
 										'Index/ Stock Option Trade',
 										'Customize Package as per Client Requirement',
 										'Objective wealth Creati',
+									),
+									array(
+										'Personalized Service by our Head Research Analyst',
+										'Discuss & plan strategy for maximum profitable bets',
+										'Special Focus on client positions',
+										'Personal guidance during market hours',
+										'Best Option Strategies & Hedging',
+										'Minimum Risk & Maximum Return Positional Strategies',
+										'PAIR TRADING',
+										'Objective utmost satisfaction & Wealth Creation',
 									)
 
 								) ?>
+
+
 								<?php
 								$x = 0;
 								foreach ($cards as $card) {
 									$x++;
 								?>
-									<div class="col-4">
+									<div class="col-3">
 										<div class="card custom-card-style-1">
 											<div class="card-body text-center py-5 px-4">
 												<h3 class="text-color-primary font-weight-medium text-4 pb-1 mb-4 ">
@@ -1095,7 +1107,7 @@
 												<ul class="list list-unstyled pb-1 mb-4 ">
 
 													<?php foreach ($points[$x - 1] as $point) { ?>
-														<li class="d-flex align-items-center justify-content-center">
+														<li class=" align-items-center justify-content-center" style="text-align: start;">
 															<svg fill="none" height="17" stroke="#848484" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 																<path d="M22 11.07V12a10 10 0 1 1-5.93-9.14" />
 																<polyline points="23 3 12 14 9 11" />
@@ -1156,142 +1168,60 @@
 				</div>
 			</section>
 
-			<section class="section border-0 bg-transparent pt-4 pt-lg-5 m-0">
-				<div class="container pb-5 mb-3">
-					<div class="row align-items-end pb-3 mb-4">
-						<div class="col-lg-9 col-xl-10 mb-4 mb-lg-0">
-							<div class="d-flex align-items-center pb-1 mb-2">
-								<span class="custom-line appear-animation" data-appear-animation="customLineAnimation" appear-animation-duration="1s"></span>
-								<div class="overflow-hidden ms-3">
-									<h2 class="text-color-primary font-weight-semibold line-height-3 text-4 mb-0 appear-animation" data-appear-animation="maskRight" data-appear-animation-delay="1000">OUR BLOG
-									</h2>
-								</div>
-							</div>
-							<h3 class="text-color-secondary font-weight-bold text-transform-none text-8 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">News &
-								Articles</h3>
-							<p class="mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">Cras a elit sit amet leo accumsan volutpat.
-								Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet
-								ullamcorper dolor, quis sollicitudin. Integer aliquet ullamcorper dolor, quis
-								sollicitudin.</p>
-						</div>
-						<div class="col-lg-auto px-lg-0">
-							<div class="d-flex justify-content-lg-end">
-								<a href="demo-cleaning-services-blog.php" class="modal-button  btn btn-secondary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">VIEW
-									BLOG</a>
+			<div class="container py-5 mt-5">
+				<div class="row pb-2 mb-4">
+					<div class="col">
+						<div class="d-flex align-items-center mb-2">
+							<span class="custom-line appear-animation" data-appear-animation="customLineAnimation" appear-animation-duration="1s"></span>
+							<div class="overflow-hidden ms-3">
+								<h2 class="text-color-primary font-weight-semibold line-height-3 text-4 mb-0 appear-animation" data-appear-animation="maskRight" data-appear-animation-delay="1000">GET IN TOUCH</h2>
 							</div>
 						</div>
-					</div>
-					<div class="row">
-						<div class="col-lg-4 mb-4 mb-lg-0">
-							<article class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800">
-								<div class="card border-0 border-radius-0 box-shadow-1">
-									<div class="card-body p-3 z-index-1">
-										<a href="demo-cleaning-services-blog-post.php">
-											<img class="card-img-top border-radius-0 mb-2" src="img/blog/blog-1.webp" alt="Card Image">
-										</a>
-										<p class="text-uppercase text-color-default text-1 my-2">
-											<time pubdate datetime="2022-01-10">10 Jan 2022</time>
-											<span class="opacity-3 d-inline-block px-2">|</span>
-											3 Comments
-											<span class="opacity-3 d-inline-block px-2">|</span>
-											John Doe
-										</p>
-										<div class="card-body p-0">
-											<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.php">Lorem ipsum dolor sit
-													amet</a></h4>
-											<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing
-												elit. Nunc viverra lorem , consectetur adipiscing elit...</p>
-											<a href="demo-cleaning-services-blog-post.php" class="modal-button  btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
-												MORE</a>
-										</div>
-									</div>
-								</div>
-							</article>
-						</div>
-						<div class="col-lg-4 mb-5 mb-lg-0">
-							<article class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="2000">
-								<div class="card border-0 border-radius-0 box-shadow-1">
-									<div class="card-body p-3 z-index-1">
-										<a href="demo-cleaning-services-blog-post.php">
-											<img class="card-img-top border-radius-0 mb-2" src="img/blog/blog-2.webp" alt="Card Image">
-										</a>
-										<p class="text-uppercase text-color-default text-1 my-2">
-											<time pubdate datetime="2022-01-10">10 Jan 2022</time>
-											<span class="opacity-3 d-inline-block px-2">|</span>
-											3 Comments
-											<span class="opacity-3 d-inline-block px-2">|</span>
-											John Doe
-										</p>
-										<div class="card-body p-0">
-											<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.php">Lorem ipsum dolor sit
-													amet</a></h4>
-											<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing
-												elit. Nunc viverra lorem , consectetur adipiscing elit...</p>
-											<a href="demo-cleaning-services-blog-post.php" class="modal-button  btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
-												MORE</a>
-										</div>
-									</div>
-								</div>
-							</article>
-						</div>
-						<div class="col-lg-4">
-							<div class="row">
-								<div class="col-12">
-									<h3 class="text-color-secondary font-weight-bold text-transform-none text-6 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="2200">More
-										Articles</h3>
-									<article class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="2400">
-										<div class="card border-0 border-radius-0 bg-transparent">
-											<div class="card-body bg-transparent p-0">
-												<p class="text-uppercase text-color-default text-1 pt-1 mb-2">
-													<time pubdate datetime="2022-01-10">10 Jan 2022</time>
-													<span class="opacity-3 d-inline-block px-2">|</span>
-													3 Comments
-													<span class="opacity-3 d-inline-block px-2">|</span>
-													John Doe
-												</p>
-												<div class="card-body p-0">
-													<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.php">Lorem ipsum
-															dolor sit amet</a></h4>
-													<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur
-														adipiscing elit. Nunc viverra lorem , consectetur adipiscing
-														elit...</p>
-													<a href="demo-cleaning-services-blog-post.php" class="modal-button  btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
-														MORE</a>
-												</div>
-											</div>
-										</div>
-									</article>
-									<hr>
-								</div>
-								<div class="col-12">
-									<article class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="2600">
-										<div class="card border-0 border-radius-0 bg-transparent">
-											<div class="card-body bg-transparent p-0">
-												<p class="text-uppercase text-color-default text-1 pt-1 mb-2">
-													<time pubdate datetime="2022-01-10">10 Jan 2022</time>
-													<span class="opacity-3 d-inline-block px-2">|</span>
-													3 Comments
-													<span class="opacity-3 d-inline-block px-2">|</span>
-													John Doe
-												</p>
-												<div class="card-body p-0">
-													<h4 class="card-title text-5 font-weight-bold pb-1 mb-2"><a class="text-color-dark text-color-hover-primary text-decoration-none" href="demo-cleaning-services-blog-post.php">Lorem ipsum
-															dolor sit amet</a></h4>
-													<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur
-														adipiscing elit. Nunc viverra lorem , consectetur adipiscing
-														elit...</p>
-													<a href="demo-cleaning-services-blog-post.php" class="modal-button  btn btn-link font-weight-semibold text-decoration-none text-3 ps-0">READ
-														MORE</a>
-												</div>
-											</div>
-										</div>
-									</article>
-								</div>
-							</div>
-						</div>
+						<h3 class="text-color-secondary font-weight-bold text-transform-none line-height-2 text-8 mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Send Us a Message</h3>
 					</div>
 				</div>
-			</section>
+				<div class="row pb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">
+					<div class="col">
+						<form class="contact-form custom-form-style-1" action="component/function.php" method="POST">
+							<div class="contact-form-success alert alert-success d-none mt-4">
+								<strong>Success!</strong> Your message has been sent to us.
+							</div>
+
+							<div class="contact-form-error alert alert-danger d-none mt-4">
+								<strong>Error!</strong> There was an error sending your message.
+								<span class="mail-error-message text-1 d-block"></span>
+							</div>
+
+							<div class="row row-gutter-sm">
+								<div class="form-group col-lg-6 mb-4">
+									<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required placeholder="Your Name">
+								</div>
+								<div class="form-group col-lg-6 mb-4">
+									<input type="text" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control" name="phone" id="phone" required placeholder="Phone Number">
+								</div>
+							</div>
+							<div class="row row-gutter-sm">
+								<div class="form-group col-lg-6 mb-4">
+									<input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email" required placeholder="Your Name">
+								</div>
+								<div class="form-group col-lg-6 mb-4">
+									<input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" id="subject" required placeholder="Subject">
+								</div>
+							</div>
+							<div class="row">
+								<div class="form-group col mb-4">
+									<textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" id="message" required placeholder="Your Message"></textarea>
+								</div>
+							</div>
+							<div class="row">
+								<div class="form-group col mb-0">
+									<button type="submit" class="btn btn-primary btn-modern font-weight-bold text-3 px-5 py-3" data-loading-text="Loading...">SEND MESSAGE</button>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
 
 		</div>
 
