@@ -236,8 +236,8 @@
 													Stock Market Intraday</h4>
 												<p class="custom-card-style-1-description">All our Day Trading calls are the recommendations or best opinions which are generated from technical & fundamentals data analytics.
 												</p>
-												<span class="custom-card-style-1-link font-weight-bold">View More
-												</span>
+												<!-- <span class="custom-card-style-1-link font-weight-bold">View More
+												</span> -->
 											</div>
 										</div>
 									</a>
@@ -271,7 +271,7 @@
 												</h4>
 												<p class="custom-card-style-1-description">With the right F&O tips, you will be able to grow your investments easily. Futures and options are a great way to increase your money.
 												</p>
-												<span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span>
+												<!-- <span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span> -->
 											</div>
 										</div>
 									</div>
@@ -289,7 +289,7 @@
 												<p class="custom-card-style-1-description">We provide future and option tips with most high accuracy. Nifty trading is a perfect option for short term gains.
 
 												</p>
-												<span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span>
+												<!-- <span class="custom-card-style-1-link font-weight-bold">VIEW MORE</span> -->
 											</div>
 										</div>
 									</div>
@@ -1107,8 +1107,7 @@
 
 
 												</ul>
-												<a href="demo-cleaning-services-contact.php" class="modal-button  btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">BOOK
-													NOW</a>
+												<a href="demo-cleaning-services-contact.php" class="modal-button  btn btn-secondary btn-modern font-weight-bold text-3 px-5 btn-py-3">Get Free Demo</a>
 											</div>
 										</div>
 									</div>
